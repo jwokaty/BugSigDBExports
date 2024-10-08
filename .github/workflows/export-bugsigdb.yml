@@ -19,7 +19,7 @@ jobs:
 
       - name: Install BugSigDBExports dependencies
         run: |
-          Rscript -e "install.packages(c('rvest', 'readr', 'plyr', 'BiocFileCache', 'R.utils'))"
+          Rscript -e "install.packages(c('rvest', 'readr', 'plyr', 'BiocFileCache', 'R.utils', 'glue'))"
 
       - name: Install bugsigdbr 
         run: |
@@ -59,10 +59,51 @@ jobs:
                       row.names = FALSE)
         shell: Rscript {0}
 
+      - name: Report file problems
+        run: |
+          library(glue)
+          github_workspace <- Sys.getenv("GITHUB_WORKSPACE")
+          setwd(file.path(github_workspace, "BugSigDBExports"))
+          file_size <- read.csv("file_size.csv", header = TRUE)
+          num_of_rows <- dim(file_size)[1]
+          if (num_of_rows > 2) {
+              last <- file_size[num_of_rows, ]
+              second_last <- file_size[num_of_rows - 1, ]
+              sig_diff <-
+                  as.integer(last$sig.csv) - as.integer(second_last$sig.csv)
+              exp_diff <-
+                  as.integer(last$exp.csv) - as.integer(second_last$exp.csv)
+              stu_diff <-
+                  as.integer(last$stu.csv) - as.integer(second_last$stu.csv)
+              if (sig_diff > 10 || exp_diff > 10 || stud_diff > 10) {
+                  system2(c("echo", glue("'SIG_DIFF={sig_diff}'"),
+                            ">>", "$GITHUB_ENV"))
+                  system2(c("echo", glue("'EXP_DIFF={exp_diff}'"),
+                            ">>", "$GITHUB_ENV"))
+                  system2(c("echo", glue("'STU_DIFF={stu_diff}'"),
+                            ">>", "$GITHUB_ENV"))
+              }
+        shell: Rscript {0}
+
+      - name: Check values
+        run: |
+          cd $GITHUB_WORKSPACE/BugSigDBExports
+          echo $GITHUB_ENV
+
+      #- name: Post to a Slack channel
+      #  id: slack
+      #  uses: slackapi/slack-github-action@v1.27.0
+      #  with:
+      #    channel-id: 'gha-nofications'
+      #    # For posting a simple plain text message
+      #    slack-message: "GitHub build result: ${{ job.status }}\n${{ github.event.pull_request.html_url || github.event.head_commit.url }}"
+      #  env:
+      #    SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+
       - name: Commit Exports
         run: |
           cd $GITHUB_WORKSPACE/BugSigDBExports
-          for export in `find . -type f -iname \*.gmt -o -iname \*.csv` 
+          for export in `find . -type f -iname \*.gmt -o -iname \*.csv`
           do
             export=$(echo $export | sed 's/\.\///g')
             git_diff=$(git diff --numstat $export | sed -e 's/\t//g')
