@@ -87,6 +87,7 @@ jobs:
                   system2(c("echo", glue("'STU_DIFF={stu_diff}'"),
                             ">>", "$GITHUB_ENV"))
               }
+          }
         shell: Rscript {0}
 
       - name: Check values
