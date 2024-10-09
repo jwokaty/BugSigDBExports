@@ -66,15 +66,19 @@ jobs:
           setwd(file.path(github_workspace, "BugSigDBExports"))
           file_size <- read.csv("file_size.csv", header = TRUE)
           num_of_rows <- dim(file_size)[1]
+          print(glue("Number of rows: {num_of_rows}"))
           if (num_of_rows > 2) {
               last <- file_size[num_of_rows, ]
               second_last <- file_size[num_of_rows - 1, ]
+              print(last)
+              print(second_last)
               sig_diff <-
                   as.integer(last$sig.csv) - as.integer(second_last$sig.csv)
               exp_diff <-
                   as.integer(last$exp.csv) - as.integer(second_last$exp.csv)
               stu_diff <-
                   as.integer(last$stu.csv) - as.integer(second_last$stu.csv)
+              print(glue("sig: {sig_diff}, exp: {exp_diff}, stu: {stu_diff}"))
               if (sig_diff > 10 || exp_diff > 10 || stud_diff > 10) {
                   system2(c("echo", glue("'SIG_DIFF={sig_diff}'"),
                             ">>", "$GITHUB_ENV"))
