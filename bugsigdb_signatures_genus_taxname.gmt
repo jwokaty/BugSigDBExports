@@ -1,4 +1,4 @@
-# BugSigDB 2024-10-12_09:13_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2024-10-12_11:10_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:1/1/1_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_UP	NA	Actinomyces	Corynebacterium	Streptococcus	Peptoniphilus	Dorea	Phascolarctobacterium	Sutterella	Lacticaseibacillus	Bacillus
 bsdb:1/1/2_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_DOWN	NA	Coprobacillus
 bsdb:1/2/1_Hyperplastic-Polyp:hyperplastic-polyp-cases_vs_controls_UP	NA	Anaerostipes	Lacticaseibacillus
@@ -4730,7 +4730,7 @@ bsdb:1105/3/2_Physical-activity:Professional-football-players-after-intensive-tr
 bsdb:1105/4/1_Physical-activity:Professional-football-players-after-intensive-training_vs_Professional-football-players-before-intensive-training_UP	NA	Abiotrophia	Aggregatibacter	Capnocytophaga	Cardiobacterium	Corynebacterium	Dialister	Lautropia	Parvimonas	Rothia	Tannerella
 bsdb:1105/4/2_Physical-activity:Professional-football-players-after-intensive-training_vs_Professional-football-players-before-intensive-training_DOWN	NA	Granulicatella	Neisseria	Oribacterium	Prevotella
 bsdb:1106/1/1_Breastfeeding-duration:Non_Exclusive-Breast-Feeding-(Non-EBF)_vs_Exclusive-Breast-Feeding-(EBF)_UP	NA	Bifidobacterium	Enterococcus
-bsdb:1106/1/2_Breastfeeding-duration:Non_Exclusive-Breast-Feeding-(Non-EBF)_vs_Exclusive-Breast-Feeding-(EBF)_DOWN	NA	Lactobacillus	Prevotella	Blautia	Collinsella	Catenibacterium
+bsdb:1106/1/2_Breastfeeding-duration:Non_Exclusive-Breast-Feeding-(Non-EBF)_vs_Exclusive-Breast-Feeding-(EBF)_DOWN	NA	Blautia	Catenibacterium	Collinsella	Lactobacillus	Prevotella	Ruminococcus
 bsdb:1106/2/1_Breastfeeding-duration:Reduced-exclusivity-of-beast-feeding-to-none-breastfeeding_vs_Increasing-Exclusive-Breast-Feeding-(EBF)_UP	NA	Akkermansia	Blautia	Coprococcus
 bsdb:1106/2/2_Breastfeeding-duration:Reduced-exclusivity-of-beast-feeding-to-none-breastfeeding_vs_Increasing-Exclusive-Breast-Feeding-(EBF)_DOWN	NA	Haemophilus	Staphylococcus
 bsdb:1106/3/1_Breastfeeding-duration:Non-Exclusive-Breastfeeding-(Non-EBF),-Vaginally-Born-and-C-section-Born_vs_Exclusively-Breastfeeding-(EBF),-Vaginally-Born-and-C-section-Born_UP	NA	Bacteroides	Clostridium	Coprococcus	Eubacterium	Megasphaera
@@ -4775,6 +4775,7 @@ bsdb:1130/1/1_Diarrhea:Diarrhea_vs_healthy-controls_UP	NA	Escherichia	Haemophilu
 bsdb:1130/1/2_Diarrhea:Diarrhea_vs_healthy-controls_DOWN	NA	Bacteroides	Dialister	Faecalibacterium	Segatella	Succinivibrio	Lactobacillus	Mitsuokella
 bsdb:1130/2/1_Diarrhea:Acute-Diarrhea_vs_Healthy-Controls_UP	NA	Haemophilus	Ligilactobacillus	Veillonella	Bifidobacterium	Campylobacter	Streptococcus	Escherichia
 bsdb:1130/2/2_Diarrhea:Acute-Diarrhea_vs_Healthy-Controls_DOWN	NA	Bacteroides	Dialister	Faecalibacterium	Segatella	Succinivibrio	Lactobacillus	Mitsuokella
+bsdb:1130/3/2_Diarrhea:Prolonged-or-Persistent-Diarrhea_vs_Healthy-Controls_DOWN	NA	Bacteroides	Dialister	Faecalibacterium	Roseburia	Mitsuokella	Anaerostipes	Leyella
 bsdb:1131/1/1_Multiple-sclerosis:Multiple-sclerosis-(MS),_vs_Healthy-subjects-(controls)_UP	NA	Streptococcus	Eggerthella
 bsdb:1131/1/2_Multiple-sclerosis:Multiple-sclerosis-(MS),_vs_Healthy-subjects-(controls)_DOWN	NA	Agathobacter	Anaerostipes	Bacteroides	Clostridium	Desulfotomaculum	Faecalibacterium	Lachnospira	Megamonas	Phocaeicola	Roseburia	Segatella	Sutterella
 bsdb:1131/2/1_Multiple-sclerosis:Multiple-sclerosis-(MS),_vs_Healthy-subjects-(controls)_UP	NA	Streptococcus	Eggerthella
