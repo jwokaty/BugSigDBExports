@@ -1,4 +1,4 @@
-# BugSigDB 2024-10-16_11:10_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2024-10-16_13:21_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:1/1/1_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_UP	NA	Actinomyces	Corynebacterium	Streptococcus	Peptoniphilus	Dorea	Phascolarctobacterium	Sutterella	Lacticaseibacillus	Bacillus
 bsdb:1/1/2_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_DOWN	NA	Coprobacillus
 bsdb:1/2/1_Hyperplastic-Polyp:hyperplastic-polyp-cases_vs_controls_UP	NA	Anaerostipes	Lacticaseibacillus
@@ -4707,12 +4707,13 @@ bsdb:1096/4/2_Gut-microbiome-measurement:Infants_vs_Grandmothers_DOWN	NA	Alistip
 bsdb:1096/5/1_Gut-microbiome-measurement:Infants_vs_Mothers-and-Grandmothers_UP	NA	Bifidobacterium	Lactobacillus
 bsdb:1096/6/1_Gut-microbiome-measurement:Mothers_vs_Infants-and-Grandmothers_UP	NA	Blautia	Dialister	Holdemania	Sutterella
 bsdb:1096/7/1_Gut-microbiome-measurement:Grandmothers_vs_Infants-and-Mothers_UP	NA	Acetanaerobacterium	Akkermansia	Bilophila	Coriobacterium	Desulfobaculum	Olsenella	Parvibacter	Phascolarctobacterium
-bsdb:1099/1/1_Response-to-risperidone:Schizophrenia-(SCH)-patients-at-Baseline-(S0)_vs_Healthy-controls-(C)_DOWN	NA	Romboutsia	Alistipes	Blautia	Bifidobacterium	Fusobacterium	Anaerostipes	Streptococcus	Dorea	Fusicatenibacter	Lactococcus	Weissella	Terrisporobacter	Haemophilus	Enterococcus	Citrobacter
+bsdb:1099/1/1_Response-to-risperidone:Schizophrenia-(SCH)-patients-at-Baseline-(S0)_vs_Healthy-controls-(C)_DOWN	NA	Alistipes	Anaerostipes	Bifidobacterium	Blautia	Citrobacter	Dorea	Enterococcus	Fusicatenibacter	Fusobacterium	Haemophilus	Lactococcus	Romboutsia	Streptococcus	Terrisporobacter	Weissella
 bsdb:1099/1/2_Response-to-risperidone:Schizophrenia-(SCH)-patients-at-Baseline-(S0)_vs_Healthy-controls-(C)_UP	NA	Lachnoclostridium
-bsdb:1099/2/1_Response-to-risperidone:Schizophrenia-(SCH)-patients-at-Week-6-(S1))_vs_Healthy-controls-(C)_UP	NA	Lachnoclostridium
-bsdb:1099/2/2_Response-to-risperidone:Schizophrenia-(SCH)-patients-at-Week-6-(S1))_vs_Healthy-controls-(C)_DOWN	NA	Romboutsia
-bsdb:1099/3/1_Response-to-risperidone:Schizophrenia-(SCH)-patients-at-Week-12-(S2))_vs_Healthy-controls-(C)_UP	NA	Lachnoclostridium
-bsdb:1099/3/2_Response-to-risperidone:Schizophrenia-(SCH)-patients-at-Week-12-(S2))_vs_Healthy-controls-(C)_DOWN	NA	Romboutsia
+bsdb:1099/2/1_Response-to-risperidone:Schizophrenia-(SCH)-patients-at-Week-6-(S1)_vs_Healthy-controls-(C)_UP	NA	Lachnoclostridium
+bsdb:1099/2/2_Response-to-risperidone:Schizophrenia-(SCH)-patients-at-Week-6-(S1)_vs_Healthy-controls-(C)_DOWN	NA	Romboutsia
+bsdb:1099/3/1_Response-to-risperidone:Schizophrenia-(SCH)-patients-at-Week-12-(S2)_vs_Healthy-controls-(C)_UP	NA	Lachnoclostridium
+bsdb:1099/3/2_Response-to-risperidone:Schizophrenia-(SCH)-patients-at-Week-12-(S2)_vs_Healthy-controls-(C)_DOWN	NA	Romboutsia
+bsdb:1099/6/1_Response-to-risperidone:Schizophrenia-(SCH)-patients-at-Week-24-(S3)_vs_Schizophrenia-(SCH)-patients-at-Baseline-(S0)_UP	NA	Lachnospira	Sutterella	Alistipes	Acetitomaculum	Clostridium	Oscillibacter
 bsdb:1100/1/1_Autism-spectrum-disorder:Autistic_vs_Healthy-controls_UP	NA	Bacteroides	Lachnospira	Megamonas	Phocaeicola	Prevotella	Roseburia	Segatella
 bsdb:1100/1/2_Autism-spectrum-disorder:Autistic_vs_Healthy-controls_DOWN	NA	Akkermansia	Bacteroides	Dialister	Escherichia	Flavonifractor	Haemophilus	Blautia	Eisenbergiella
 bsdb:1102/2/1_Alzheimer's-disease:APP/PS1_vs_Wild-type-(WT)_UP	NA	Akkermansia	Allobaculum	Alloprevotella	Bifidobacterium	Thomasclavelia
@@ -4806,8 +4807,8 @@ bsdb:1142/5/2_Hypertrophy:Tonsillar-hypertrophy-(TH)_vs_Adenotonsillar-hypertrop
 bsdb:1142/6/1_Hypertrophy:Tonsillar-hypertrophy-(TH)_vs_Adenoid-hypertrophy-(AH)_UP	NA	Gemella	Granulicatella	Parvimonas	Prevotella	Bifidobacterium	Dialister	Filifactor	Capnocytophaga	Streptococcus	Pauljensenia	Candidatus Nanoperiomorbus	Anaeroglobus	Tatumella	Actinomyces	Lactobacillus	Cardiobacterium	Elizabethkingia
 bsdb:1144/1/1_Autism-spectrum-disorder:Children-with-Autism-Spectrum-Disorder-(ASD)_vs_Healthy-children_UP	NA	Faecalibacterium	Prevotella	Subdoligranulum	Ruminococcus	Agathobacter
 bsdb:1144/1/2_Autism-spectrum-disorder:Children-with-Autism-Spectrum-Disorder-(ASD)_vs_Healthy-children_DOWN	NA	Bifidobacterium	Eubacterium
-bsdb:1151/1/1_Lactose-intolerance:Participants-with-Lactose-Intolerance_vs_Healthy-Control_UP	NA	Blautia	Collinsella	Comamonas	Dialister	Haemophilus	Megasphaera	Treponema
-bsdb:1151/1/2_Lactose-intolerance:Participants-with-Lactose-Intolerance_vs_Healthy-Control_DOWN	NA	Alistipes	Butyrivibrio	Desulfovibrio	Eubacterium	Prevotella	Succinivibrio
+bsdb:1151/1/1_Lactose-intolerance:Participants-with-Lactose-Intolerance_vs_Healthy-Control_UP	NA	Blautia	Collinsella	Comamonas	Dialister	Haemophilus	Megasphaera	Treponema	Clostridium
+bsdb:1151/1/2_Lactose-intolerance:Participants-with-Lactose-Intolerance_vs_Healthy-Control_DOWN	NA	Alistipes	Butyrivibrio	Desulfovibrio	Eubacterium	Prevotella	Succinivibrio	Ruminococcus
 bsdb:1152/1/1_HIV-infection:Chronic-HIV-infected-cases_vs_HIV-uninfected-controls_UP	NA	Barnesiella
 bsdb:1156/1/1_Age,Erythrocyte-indices,Growth-protocol,Hemoglobin-A2-measurement,Abnormal-result-of-function-studies:Exposed_vs_Unexposed_UP	NA	Bacillus	Prevotella
 bsdb:1156/1/2_Age,Erythrocyte-indices,Growth-protocol,Hemoglobin-A2-measurement,Abnormal-result-of-function-studies:Exposed_vs_Unexposed_UP	NA	Prevotella	Bacillus
