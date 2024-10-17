@@ -1,4 +1,4 @@
-# BugSigDB 2024-10-17_13:21_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2024-10-17_14:12_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:1/1/1_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_UP	NA	1654	1716	1301	162289	189330	33024	40544	1386
 bsdb:1/1/2_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_DOWN	NA	100883
 bsdb:1/2/1_Hyperplastic-Polyp:hyperplastic-polyp-cases_vs_controls_UP	NA	207244
@@ -3298,7 +3298,6 @@ bsdb:1043/5/1_Human-immunodeficiency-virus:Acute-HIV-infected-participants-on-An
 bsdb:1043/6/1_Human-immunodeficiency-virus:Chronic-HIV-infected-participants-on-Antiretroviral-Therapy(B12)_vs_Chronic-HIV-infected-participants-at-baseline-(B0)_UP	NA	374
 bsdb:1043/6/2_Human-immunodeficiency-virus:Chronic-HIV-infected-participants-on-Antiretroviral-Therapy(B12)_vs_Chronic-HIV-infected-participants-at-baseline-(B0)_DOWN	NA	29465
 bsdb:1043/7/1_Human-immunodeficiency-virus:Chronic-HIV-infected-participants-at-baseline-(B0)_vs_Acute-HIV-infected-participants-at-baseline-(A0)_DOWN	NA	265975
-bsdb:1043/8/1_Human-immunodeficiency-virus:Chronic-HIV-infected-participants-on-Antiretroviral-Therapy(B12)_vs_Acute-HIV-infected-participants-on-Antiretroviral-Therapy(A12)_UP	NA	194
 bsdb:1044/2/1_Lung-transplantation:Recipients-with-rejection_vs_Clinically-stable-(or-event-free)-recipients_UP	NA	32207	46123	482	1654	32067
 bsdb:1044/3/1_Lung-transplantation:Recipients-with-rejection_vs_Recipients-with-infection_UP	NA	46123	1654	32067	482	508215
 bsdb:1045/1/1_Gut-microbiome-measurement:Workers-after-entry-into-an-underground-tunnel-(Exposed-status-(ES))_vs_Workers-before-entry-into-an-underground-tunnel-(Baseline-status-(BS))_UP	NA	1678	55968	1501226	1485
@@ -3634,6 +3633,7 @@ bsdb:1160/1/2_Systemic-inflammatory-response-syndrome:SIRS-model-(LPS)_vs_Contro
 bsdb:1160/1/3_Systemic-inflammatory-response-syndrome:SIRS-model-(LPS)_vs_Control_UP	NA	816	547	375288
 bsdb:1161/1/1_Schistosomiasis:Schistosomiasis-positive_vs_Schistosomiasis-negative_UP	NA	469	1283313	872	39948	724	906	133925	2740	838
 bsdb:1161/1/2_Schistosomiasis:Schistosomiasis-positive_vs_Schistosomiasis-negative_DOWN	NA	375288	292632
+bsdb:1165/1/1_Gut-microbiome-measurement:Potamochoerus-porcus-housed-in-Bioparco,-located-in-Rome,-Italy_vs_Potamochoerus-porcus-housed-in-Parco-Natura-Viva,-located-in-Bussolengo,-Verona,-Italy_UP	NA	1283313	40544
 bsdb:1166/1/1_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-who-are-breast-fed_vs_Infants-who-are-not-breast-fed_UP	NA	1678	1301
 bsdb:1166/2/1_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-with-diarrhea_vs_Infants-without-diarrhea_UP	NA	1485	620	570
 bsdb:1166/2/2_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-with-diarrhea_vs_Infants-without-diarrhea_DOWN	NA	816

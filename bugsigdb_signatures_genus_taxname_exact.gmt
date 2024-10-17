@@ -1,4 +1,4 @@
-# BugSigDB 2024-10-17_13:21_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2024-10-17_14:12_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:1/1/1_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_UP	NA	Actinomyces	Corynebacterium	Streptococcus	Peptoniphilus	Dorea	Phascolarctobacterium	Sutterella	Bacillus
 bsdb:1/1/2_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_DOWN	NA	Coprobacillus
 bsdb:1/2/1_Hyperplastic-Polyp:hyperplastic-polyp-cases_vs_controls_UP	NA	Anaerostipes
@@ -3298,7 +3298,6 @@ bsdb:1043/5/1_Human-immunodeficiency-virus:Acute-HIV-infected-participants-on-An
 bsdb:1043/6/1_Human-immunodeficiency-virus:Chronic-HIV-infected-participants-on-Antiretroviral-Therapy(B12)_vs_Chronic-HIV-infected-participants-at-baseline-(B0)_UP	NA	Bradyrhizobium
 bsdb:1043/6/2_Human-immunodeficiency-virus:Chronic-HIV-infected-participants-on-Antiretroviral-Therapy(B12)_vs_Chronic-HIV-infected-participants-at-baseline-(B0)_DOWN	NA	Veillonella
 bsdb:1043/7/1_Human-immunodeficiency-virus:Chronic-HIV-infected-participants-at-baseline-(B0)_vs_Acute-HIV-infected-participants-at-baseline-(A0)_DOWN	NA	Oribacterium
-bsdb:1043/8/1_Human-immunodeficiency-virus:Chronic-HIV-infected-participants-on-Antiretroviral-Therapy(B12)_vs_Acute-HIV-infected-participants-on-Antiretroviral-Therapy(A12)_UP	NA	Campylobacter
 bsdb:1044/2/1_Lung-transplantation:Recipients-with-rejection_vs_Clinically-stable-(or-event-free)-recipients_UP	NA	Rothia	Abiotrophia	Neisseria	Actinomyces	Leptotrichia
 bsdb:1044/3/1_Lung-transplantation:Recipients-with-rejection_vs_Recipients-with-infection_UP	NA	Abiotrophia	Actinomyces	Leptotrichia	Neisseria	Rothia
 bsdb:1045/1/1_Gut-microbiome-measurement:Workers-after-entry-into-an-underground-tunnel-(Exposed-status-(ES))_vs_Workers-before-entry-into-an-underground-tunnel-(Baseline-status-(BS))_UP	NA	Bifidobacterium	Leucobacter	Romboutsia	Clostridium
@@ -3634,6 +3633,7 @@ bsdb:1160/1/2_Systemic-inflammatory-response-syndrome:SIRS-model-(LPS)_vs_Contro
 bsdb:1160/1/3_Systemic-inflammatory-response-syndrome:SIRS-model-(LPS)_vs_Control_UP	NA	Bacteroides	Enterobacter	Parabacteroides
 bsdb:1161/1/1_Schistosomiasis:Schistosomiasis-positive_vs_Schistosomiasis-negative_UP	NA	Acinetobacter	Alloprevotella	Desulfovibrio	Dialister	Haemophilus	Megasphaera	Olsenella	Peptococcus	Prevotella
 bsdb:1161/1/2_Schistosomiasis:Schistosomiasis-positive_vs_Schistosomiasis-negative_DOWN	NA	Parabacteroides	Subdoligranulum
+bsdb:1165/1/1_Gut-microbiome-measurement:Potamochoerus-porcus-housed-in-Bioparco,-located-in-Rome,-Italy_vs_Potamochoerus-porcus-housed-in-Parco-Natura-Viva,-located-in-Bussolengo,-Verona,-Italy_UP	NA	Alloprevotella	Sutterella
 bsdb:1166/1/1_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-who-are-breast-fed_vs_Infants-who-are-not-breast-fed_UP	NA	Bifidobacterium	Streptococcus
 bsdb:1166/2/1_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-with-diarrhea_vs_Infants-without-diarrhea_UP	NA	Clostridium	Shigella	Klebsiella
 bsdb:1166/2/2_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-with-diarrhea_vs_Infants-without-diarrhea_DOWN	NA	Bacteroides
