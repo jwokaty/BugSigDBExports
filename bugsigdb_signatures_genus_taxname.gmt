@@ -1,4 +1,4 @@
-# BugSigDB 2024-10-18_09:13_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2024-10-18_10:14_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:1/1/1_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_UP	NA	Actinomyces	Corynebacterium	Streptococcus	Peptoniphilus	Dorea	Phascolarctobacterium	Sutterella	Lacticaseibacillus	Bacillus
 bsdb:1/1/2_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_DOWN	NA	Coprobacillus
 bsdb:1/2/1_Hyperplastic-Polyp:hyperplastic-polyp-cases_vs_controls_UP	NA	Anaerostipes	Lacticaseibacillus
@@ -4855,6 +4855,7 @@ bsdb:1166/2/4_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-with-diarrhea_vs
 bsdb:1168/1/1_HIV-infection:HIV--infected-Pregnant-women_vs_HIV-uninfected-Pregnant-women_UP	NA	Actinomyces	Succinivibrio
 bsdb:1168/1/2_HIV-infection:HIV--infected-Pregnant-women_vs_HIV-uninfected-Pregnant-women_DOWN	NA	Bacteroides	Bifidobacterium	Clostridium	Faecalibacterium	Oscillospira	Parabacteroides	Ruminococcus	Treponema	Turicibacter
 bsdb:1168/2/1_Birth-weight:Infants-with-Low-birthweight-<2500g_vs_Infants-with-High-birthweight->2500g_UP	NA	Treponema
-bsdb:1168/3/1_Viral-load:HIV-virally-un-suppressed-pregnant-women_vs_HIV-virally-suppressed-pregnant-women_UP	NA	Prevotella
+bsdb:1168/3/1_Viral-load:HIV-virally-un-suppressed-pregnant-women_vs_HIV-virally-suppressed-pregnant-women_UP	NA	Prevotella	Paraprevotella
 bsdb:1168/3/2_Viral-load:HIV-virally-un-suppressed-pregnant-women_vs_HIV-virally-suppressed-pregnant-women_DOWN	NA	Clostridium
-bsdb:1169/1/1_Gestational-diabetes:gestational-diabetes-mellitus-(GDM)-pregnant-women_vs_Normoglycaemic--pregnant-women_UP	NA	Mogibacterium	Actinomyces	Leuconostoc	Granulicatella	Desulfovibrio	Rothia	Collinsella
+bsdb:1169/1/1_Gestational-diabetes:gestational-diabetes-mellitus-(GDM)-pregnancy_vs_Normoglycaemic--pregnancy_UP	NA	Actinomyces	Collinsella	Desulfovibrio	Granulicatella	Leuconostoc	Mogibacterium	Rothia
+bsdb:1169/1/2_Gestational-diabetes:gestational-diabetes-mellitus-(GDM)-pregnancy_vs_Normoglycaemic--pregnancy_DOWN	NA	Anaerosporobacter	Acetivibrio	Marvinbryantia
