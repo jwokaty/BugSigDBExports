@@ -1,4 +1,4 @@
-# BugSigDB 2024-10-19_19:10_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2024-10-19_20:11_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:1/1/1_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_UP	NA	Actinomyces	Corynebacterium	Streptococcus	Peptoniphilus	Dorea	Phascolarctobacterium	Sutterella	Lacticaseibacillus	Bacillus
 bsdb:1/1/2_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_DOWN	NA	Coprobacillus
 bsdb:1/2/1_Hyperplastic-Polyp:hyperplastic-polyp-cases_vs_controls_UP	NA	Anaerostipes	Lacticaseibacillus
@@ -4862,8 +4862,8 @@ bsdb:1169/1/1_Gestational-diabetes:gestational-diabetes-mellitus-(GDM)-pregnancy
 bsdb:1169/1/2_Gestational-diabetes:gestational-diabetes-mellitus-(GDM)-pregnancy_vs_Normoglycaemic--pregnancy_DOWN	NA	Anaerosporobacter	Acetivibrio	Marvinbryantia
 bsdb:1169/2/1_Gestational-diabetes:Previous-GDM-pregnancy_vs_Previous-normoglycaemic--pregnancy_UP	NA	Collinsella	Dehalobacter	Hafnia	Howardella	Olsenella
 bsdb:1169/2/2_Gestational-diabetes:Previous-GDM-pregnancy_vs_Previous-normoglycaemic--pregnancy_DOWN	NA	Ruminococcus	Fusobacterium
-bsdb:1169/3/1_Gestational-diabetes:gestational-diabetes-mellitus-(GDM)-pregnancy_vs_Normoglycaemic--pregnancy_UP	NA	Faecalibacterium	Blautia
-bsdb:1169/3/2_Gestational-diabetes:gestational-diabetes-mellitus-(GDM)-pregnancy_vs_Normoglycaemic--pregnancy_DOWN	NA	Bacteroides	Isobaculum	Sutterella	Oscillibacter	Butyricicoccus	Ruminococcus	Intestinimonas	Acetivibrio	Veillonella	Faecalibacterium
+bsdb:1169/3/1_Gestational-diabetes:Preceding-gestational-diabetes-mellitus-(GDM)-pregnancy_vs_Preceding-normoglycaemic--pregnancy_UP	NA	Faecalibacterium	Blautia
+bsdb:1169/3/2_Gestational-diabetes:Preceding-gestational-diabetes-mellitus-(GDM)-pregnancy_vs_Preceding-normoglycaemic--pregnancy_DOWN	NA	Bacteroides	Isobaculum	Sutterella	Oscillibacter	Butyricicoccus	Ruminococcus	Intestinimonas	Acetivibrio	Veillonella	Faecalibacterium
 bsdb:1169/4/1_Gestational-diabetes:Previous-gestational-diabetes-mellitus-(GDM)-pregnancy_vs_Previous-normoglycaemic--pregnancy_UP	NA	Faecalibacterium	Collinsella	Anaerovorax	Alistipes	Phreatobacter
 bsdb:1169/4/2_Gestational-diabetes:Previous-gestational-diabetes-mellitus-(GDM)-pregnancy_vs_Previous-normoglycaemic--pregnancy_DOWN	NA	Isobaculum	Bacteroides	Eggerthella	Faecalibacterium
 bsdb:1169/5/1_Gestational-diabetes:Overweight-pre-pregnancy-BMI_vs_Normal-pre-pregnancy-BMI_UP	NA	Parabacteroides	Porphyromonas
