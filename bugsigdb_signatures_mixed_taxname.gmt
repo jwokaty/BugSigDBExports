@@ -1,4 +1,4 @@
-# BugSigDB 2024-10-21_21:11_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2024-10-21_22:11_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:1/1/1_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_UP	NA	Bacilli	Gammaproteobacteria	Actinomyces	Corynebacterium	Streptococcus	Peptoniphilus	Dorea	Phascolarctobacterium	Sutterella	Actinomycetales	Actinomycetaceae	Alcaligenaceae	Lactobacillales	Streptococcaceae	Veillonellaceae	Enterobacterales	Corynebacteriaceae	Lacticaseibacillus zeae	Bacillus	Bacillaceae
 bsdb:1/1/2_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_DOWN	NA	Coprobacillus	Cyanobacteriota
 bsdb:1/2/1_Hyperplastic-Polyp:hyperplastic-polyp-cases_vs_controls_UP	NA	Anaerostipes	Lacticaseibacillus zeae
@@ -5550,3 +5550,4 @@ bsdb:1178/2/2_Lactose-intolerance:lactose-intolerant_vs_healthy-control_DOWN	NA	
 bsdb:1178/3/1_Lactose-intolerance:lactose-intolerant_vs_healthy-control_UP	NA	unidentified proteobacterium	Gammaproteobacteria	Escherichia	Escherichia fergusonii	Burkholderia	Bacteroides fragilis	Lachnospira	Enterobacter	Shigella	Salmonella enterica	Salmonella
 bsdb:1178/3/2_Lactose-intolerance:lactose-intolerant_vs_healthy-control_DOWN	NA	Faecalibacterium	Lachnospira eligens	Eubacterium	Clostridium
 bsdb:1180/1/1_HIV-1-infection:Follow-up_vs_Baseline_UP	NA	Escherichia	Cutibacterium	Corynebacterium	Staphylococcus	Enterobacteriaceae	Burkholderiaceae
+bsdb:1180/1/2_HIV-1-infection:Follow-up_vs_Baseline_DOWN	NA	Blautia	Fusicatenibacter	Ruminococcus gauvreauii	Collinsella	Catenibacterium	Lysobacter
