@@ -1,4 +1,4 @@
-# BugSigDB 2024-10-21_08:16_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2024-10-21_09:14_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:1/1/1_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_UP	NA	Actinomyces	Corynebacterium	Streptococcus	Peptoniphilus	Dorea	Phascolarctobacterium	Sutterella	Bacillus
 bsdb:1/1/2_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_DOWN	NA	Coprobacillus
 bsdb:1/2/1_Hyperplastic-Polyp:hyperplastic-polyp-cases_vs_controls_UP	NA	Anaerostipes
@@ -4025,8 +4025,8 @@ bsdb:1151/2/1_Lactose-intolerance:Participants-with-Lactose-Intolerance(LI)_vs_H
 bsdb:1151/2/2_Lactose-intolerance:Participants-with-Lactose-Intolerance(LI)_vs_Healthy-controls-(HC)_DOWN	NA	Faecalibacterium
 bsdb:1151/3/1_Lactose-intolerance:FMT-Lactose-Intolerance-group_vs_FMT-Healthy-Controls-group_UP	NA	Coprobacillus	Dielma	Sutterella	Escherichia	Shigella
 bsdb:1151/3/2_Lactose-intolerance:FMT-Lactose-Intolerance-group_vs_FMT-Healthy-Controls-group_DOWN	NA	Faecalibacterium	Fusicatenibacter
-bsdb:1151/5/1_Lactose-intolerance:Participants-with-Lactose-Intolerance_vs_Healthy-Controls_UP	NA	Escherichia	Haemophilus
-bsdb:1151/5/2_Lactose-intolerance:Participants-with-Lactose-Intolerance_vs_Healthy-Controls_DOWN	NA	Veillonella	Enterococcus	Thomasclavelia
+bsdb:1151/5/1_Lactose-intolerance:Participants-with-Lactose-Intolerance_vs_Healthy-Controls_UP	NA	Escherichia
+bsdb:1151/5/2_Lactose-intolerance:Participants-with-Lactose-Intolerance_vs_Healthy-Controls_DOWN	NA	Enterococcus	Thomasclavelia	Veillonella
 bsdb:1152/1/1_HIV-infection:Chronic-HIV-infected-cases_vs_HIV-uninfected-controls_UP	NA	Barnesiella
 bsdb:1156/1/1_Age,Erythrocyte-indices,Growth-protocol,Hemoglobin-A2-measurement,Abnormal-result-of-function-studies:Exposed_vs_Unexposed_UP	NA	Prevotella
 bsdb:1156/1/2_Age,Erythrocyte-indices,Growth-protocol,Hemoglobin-A2-measurement,Abnormal-result-of-function-studies:Exposed_vs_Unexposed_UP	NA	Prevotella
@@ -4045,7 +4045,8 @@ bsdb:1161/1/1_Schistosomiasis:Schistosomiasis-positive_vs_Schistosomiasis-negati
 bsdb:1161/1/2_Schistosomiasis:Schistosomiasis-positive_vs_Schistosomiasis-negative_DOWN	NA	Parabacteroides	Subdoligranulum	Clostridium
 bsdb:1162/2/1_Viral-encephalitis:Encephalitis-(ENC)_vs_healthy-controls-(CON)_UP	NA	Akkermansia	Oscillospira	Parabacteroides
 bsdb:1162/2/2_Viral-encephalitis:Encephalitis-(ENC)_vs_healthy-controls-(CON)_DOWN	NA	Faecalibacterium	Prevotella	Ruminococcus	Sutterella
-bsdb:1165/1/1_Gut-microbiome-measurement:Potamochoerus-porcus-housed-in-Bioparco,-located-in-Rome,-Italy_vs_Potamochoerus-porcus-housed-in-Parco-Natura-Viva,-located-in-Bussolengo,-Verona,-Italy_UP	NA	Alloprevotella	Sutterella
+bsdb:1165/1/1_Gut-microbiome-measurement:Potamochoerus-porcus-housed-in-Bioparco,-located-in-Rome,-Italy_vs_Potamochoerus-porcus-housed-in-Parco-Natura-Viva,-located-in-Bussolengo,-Verona,-Italy_UP	NA	Treponema	Blautia	Lactobacillus	Anaerostipes	Dorea
+bsdb:1165/1/2_Gut-microbiome-measurement:Potamochoerus-porcus-housed-in-Bioparco,-located-in-Rome,-Italy_vs_Potamochoerus-porcus-housed-in-Parco-Natura-Viva,-located-in-Bussolengo,-Verona,-Italy_UP	NA	Alloprevotella	Sutterella
 bsdb:1166/1/1_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-who-are-breast-fed_vs_Infants-who-are-not-breast-fed_UP	NA	Bifidobacterium	Streptococcus
 bsdb:1166/2/1_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-with-diarrhea_vs_Infants-without-diarrhea_UP	NA	Clostridium	Shigella	Klebsiella
 bsdb:1166/2/2_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-with-diarrhea_vs_Infants-without-diarrhea_DOWN	NA	Bacteroides
