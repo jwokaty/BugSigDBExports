@@ -1,4 +1,4 @@
-# BugSigDB 2024-10-23_12:22_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2024-10-23_13:21_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:1/1/1_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_UP	NA	Actinomyces	Corynebacterium	Streptococcus	Peptoniphilus	Dorea	Phascolarctobacterium	Sutterella	Bacillus
 bsdb:1/1/2_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_DOWN	NA	Coprobacillus
 bsdb:1/2/1_Hyperplastic-Polyp:hyperplastic-polyp-cases_vs_controls_UP	NA	Anaerostipes
@@ -3996,8 +3996,8 @@ bsdb:1118/2/1_HIV-infection:immunological-non-responders-(INR)-HIV-infected-indi
 bsdb:1118/2/6_HIV-infection:immunological-non-responders-(INR)-HIV-infected-individual_vs_Healthy-HIV-negative-individual_DOWN	NA	Alistipes	Anaerostipes	Barnesiella	Bifidobacterium	Blautia	Dorea	Faecalibacterium	Fusicatenibacter	Haemophilus	Paraprevotella	Roseburia
 bsdb:1118/3/1_HIV-infection:Immunological-Responder-(IR)-HIV-infected-individual_vs_immunological-non-responders-(INR)-HIV-infected-individual_UP	NA	Solobacterium	Dielma	Blautia
 bsdb:1118/3/2_HIV-infection:Immunological-Responder-(IR)-HIV-infected-individual_vs_immunological-non-responders-(INR)-HIV-infected-individual_DOWN	NA	Anaerostipes	Alloprevotella	Eubacterium
-bsdb:1121/4/1_Helminthiasis,-animal:High_vs_Low_UP	NA	Coprobacter	Gordonibacter
-bsdb:1121/4/2_Helminthiasis,-animal:High_vs_Low_DOWN	NA	Aerococcus	Mobilitalea
+bsdb:1121/4/1_Helminthiasis,-animal:High-CD4+CD44hi-Group_vs_Low-CD4+CD44hi-Group_UP	NA	Coprobacter	Gordonibacter
+bsdb:1121/4/2_Helminthiasis,-animal:High-CD4+CD44hi-Group_vs_Low-CD4+CD44hi-Group_DOWN	NA	Aerococcus	Mobilitalea
 bsdb:1124/1/1_Vaginal-microbiome-measurement:Main-group---CG,-Caucasian-German-women_vs_Combination-of-groups---AA,-AC,-AI-and-AK-women_UP	NA	Gemella
 bsdb:1124/2/1_Vaginal-microbiome-measurement:AK,-African-Kenyan-women_vs_Combination-of-groups---AA,-AC,-AI-and-CG-women_UP	NA	Porphyromonas
 bsdb:1124/3/1_Vaginal-microbiome-measurement:AI,-Asian-Indonesian-women_vs_Combination-of-groups---AA,-AC,-AK-and-CG-women_UP	NA	Staphylococcus	Anaerococcus	Peptostreptococcus	Ezakiella
@@ -4117,3 +4117,4 @@ bsdb:1182/1/1_Myostatin-related-muscle-hypertrophy:GEF(Gene-edited-female)_vs_WT
 bsdb:1182/1/2_Myostatin-related-muscle-hypertrophy:GEF(Gene-edited-female)_vs_WTF(Wild-type-female)_DOWN	NA	Alloprevotella
 bsdb:1182/3/1_Myostatin-related-muscle-hypertrophy:GEM(Gene-edited-male)_vs_WTM(Wild-type-male)_UP	NA	Agathobaculum	Aminipila	Anaerotignum	Colidextribacter	Evtepia	Flavonifractor	Hungatella	Intestinimonas	Lactobacillus	Oribacterium	Pseudoflavonifractor	Ruthenibacterium	Streptococcus	Subdoligranulum
 bsdb:1182/3/2_Myostatin-related-muscle-hypertrophy:GEM(Gene-edited-male)_vs_WTM(Wild-type-male)_DOWN	NA	Alloprevotella
+bsdb:1183/1/2_Sickle-cell-disease-and-related-diseases:Sickle-Cell-Anaemia-cases_vs_Healthy-Siblings_DOWN	NA	Polaribacter	Aestuariispira	Helicobacter	Anaerorhabdus	Campylobacter

@@ -1,4 +1,4 @@
-# BugSigDB 2024-10-23_12:22_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2024-10-23_13:21_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:1/1/1_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_UP	NA	1654	1716	1301	162289	189330	33024	40544	2759736	1386
 bsdb:1/1/2_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_DOWN	NA	100883
 bsdb:1/2/1_Hyperplastic-Polyp:hyperplastic-polyp-cases_vs_controls_UP	NA	207244	2759736
@@ -4784,8 +4784,8 @@ bsdb:1118/2/1_HIV-infection:immunological-non-responders-(INR)-HIV-infected-indi
 bsdb:1118/2/6_HIV-infection:immunological-non-responders-(INR)-HIV-infected-individual_vs_Healthy-HIV-negative-individual_DOWN	NA	1766253	239759	2569097	207244	397864	1678	572511	33042	189330	1730	216851	1407607	724	577309	838	841	1263
 bsdb:1118/3/1_HIV-infection:Immunological-Responder-(IR)-HIV-infected-individual_vs_immunological-non-responders-(INR)-HIV-infected-individual_UP	NA	123375	1472649	572511
 bsdb:1118/3/2_HIV-infection:Immunological-Responder-(IR)-HIV-infected-individual_vs_immunological-non-responders-(INR)-HIV-infected-individual_DOWN	NA	207244	1730	1283313	1508657
-bsdb:1121/4/1_Helminthiasis,-animal:High_vs_Low_UP	NA	1348911	644652
-bsdb:1121/4/2_Helminthiasis,-animal:High_vs_Low_DOWN	NA	1375	1649471
+bsdb:1121/4/1_Helminthiasis,-animal:High-CD4+CD44hi-Group_vs_Low-CD4+CD44hi-Group_UP	NA	1348911	644652
+bsdb:1121/4/2_Helminthiasis,-animal:High-CD4+CD44hi-Group_vs_Low-CD4+CD44hi-Group_DOWN	NA	1375	1649471
 bsdb:1124/1/1_Vaginal-microbiome-measurement:Main-group---CG,-Caucasian-German-women_vs_Combination-of-groups---AA,-AC,-AI-and-AK-women_UP	NA	1678	2701	1378	3076174	838	29465
 bsdb:1124/2/1_Vaginal-microbiome-measurement:AK,-African-Kenyan-women_vs_Combination-of-groups---AA,-AC,-AI-and-CG-women_UP	NA	836	1716
 bsdb:1124/3/1_Vaginal-microbiome-measurement:AI,-Asian-Indonesian-women_vs_Combination-of-groups---AA,-AC,-AK-and-CG-women_UP	NA	1279	165779	1257	1582879	1578	1301	1678
@@ -4932,3 +4932,5 @@ bsdb:1182/1/1_Myostatin-related-muscle-hypertrophy:GEF(Gene-edited-female)_vs_WT
 bsdb:1182/1/2_Myostatin-related-muscle-hypertrophy:GEF(Gene-edited-female)_vs_WTF(Wild-type-female)_DOWN	NA	1283313	909656
 bsdb:1182/3/1_Myostatin-related-muscle-hypertrophy:GEM(Gene-edited-male)_vs_WTM(Wild-type-male)_UP	NA	2048137	2060094	2039240	3151708	1980681	2211178	946234	1649459	1392389	1578	265975	459786	1017280	1905344	1301	292632
 bsdb:1182/3/2_Myostatin-related-muscle-hypertrophy:GEM(Gene-edited-male)_vs_WTM(Wild-type-male)_DOWN	NA	1283313	909656
+bsdb:1183/1/1_Sickle-cell-disease-and-related-diseases:Sickle-Cell-Anaemia-cases_vs_Healthy-Siblings_UP	NA	816	1678	102106	40544
+bsdb:1183/1/2_Sickle-cell-disease-and-related-diseases:Sickle-Cell-Anaemia-cases_vs_Healthy-Siblings_DOWN	NA	52959	1647175	209	118966	194	1283313	1738645	838	2974251	2974265	1263
