@@ -1,4 +1,4 @@
-# BugSigDB 2024-10-23_11:10_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2024-10-23_12:22_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:1/1/1_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_UP	NA	Actinomyces	Corynebacterium	Streptococcus	Peptoniphilus	Dorea	Phascolarctobacterium	Sutterella	Lacticaseibacillus	Bacillus
 bsdb:1/1/2_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_DOWN	NA	Coprobacillus
 bsdb:1/2/1_Hyperplastic-Polyp:hyperplastic-polyp-cases_vs_controls_UP	NA	Anaerostipes	Lacticaseibacillus
@@ -4861,16 +4861,19 @@ bsdb:1158/3/1_Sleep-duration:Long-Sleepers_vs_Short-sleepers_UP	NA	Oscillospira	
 bsdb:1158/3/2_Sleep-duration:Long-Sleepers_vs_Short-sleepers_DOWN	NA	Bacteroides
 bsdb:1160/3/1_Systemic-inflammatory-response-syndrome:FMT-HK-Group_vs_FMT-L-Group_UP	NA	Bacteroides
 bsdb:1160/4/1_Systemic-inflammatory-response-syndrome:FMT-HK-Group_vs_LPS-induced-SIRS-(systemic-inflammatory-response-syndrome)-group_UP	NA	Bacteroides
+bsdb:1160/7/2_Systemic-inflammatory-response-syndrome:MD-(cultured-model)_vs_ND-(cultured-control)_UP	NA	Bacteroides	Enterobacter	Enterococcus
 bsdb:1160/10/1_Systemic-inflammatory-response-syndrome:M_vs_N_UP	NA	Bacteroides	Proteus	Butyricimonas	Parabacteroides	Bilophila	Enterococcus	Clostridium	Asaccharospora	Thomasclavelia
 bsdb:1160/10/2_Systemic-inflammatory-response-syndrome:M_vs_N_DOWN	NA	Allobaculum	Candidatus Saccharimonas	Ruminiclostridium	Turicibacter
 bsdb:1160/11/1_Systemic-inflammatory-response-syndrome:MD_vs_ND_UP	NA	Bacteroides	Proteus	Butyricimonas	Parabacteroides	Clostridium	Bilophila	Enterococcus	Asaccharospora	Thomasclavelia
 bsdb:1160/11/2_Systemic-inflammatory-response-syndrome:MD_vs_ND_DOWN	NA	Ruminiclostridium	Allobaculum	Turicibacter	Candidatus Saccharimonas
+bsdb:1160/13/1_Systemic-inflammatory-response-syndrome:A2.1,-A2.2,-B2.1,-B2.2,-C2.1,-C2.2,-D2.1,-D2.2,-E2.1,-E2.2,-F2.1,-F2.2-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_DOWN	NA	Bacteroides	Enterobacter
+bsdb:1160/14/1_Systemic-inflammatory-response-syndrome:A2.1,-A2.2,-B2.1,-B2.2,-C2.1,-C2.2,-D2.1,-D2.2-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_UP	NA	Enterococcus
 bsdb:1161/1/1_Schistosomiasis:Schistosomiasis-positive_vs_Schistosomiasis-negative_UP	NA	Acinetobacter	Alloprevotella	Desulfovibrio	Dialister	Haemophilus	Megasphaera	Olsenella	Peptococcus	Prevotella
 bsdb:1161/1/2_Schistosomiasis:Schistosomiasis-positive_vs_Schistosomiasis-negative_DOWN	NA	Parabacteroides	Subdoligranulum	Clostridium
 bsdb:1162/2/1_Viral-encephalitis:Encephalitis-(ENC)_vs_healthy-controls-(CON)_UP	NA	Akkermansia	Oscillospira	Parabacteroides
 bsdb:1162/2/2_Viral-encephalitis:Encephalitis-(ENC)_vs_healthy-controls-(CON)_DOWN	NA	Faecalibacterium	Prevotella	Ruminococcus	Sutterella
-bsdb:1165/1/1_Gut-microbiome-measurement:Potamochoerus-porcus-housed-in-Bioparco,-located-in-Rome,-Italy_vs_Potamochoerus-porcus-housed-in-Parco-Natura-Viva,-located-in-Bussolengo,-Verona,-Italy_UP	NA	Treponema	Blautia	Lactobacillus	Anaerostipes	Dorea
-bsdb:1165/1/2_Gut-microbiome-measurement:Potamochoerus-porcus-housed-in-Bioparco,-located-in-Rome,-Italy_vs_Potamochoerus-porcus-housed-in-Parco-Natura-Viva,-located-in-Bussolengo,-Verona,-Italy_UP	NA	Alloprevotella	Sutterella
+bsdb:1165/1/1_Environmental-factor:Potamochoerus-porcus-housed-in-Bioparco,-located-in-Rome,-Italy_vs_Potamochoerus-porcus-housed-in-Parco-Natura-Viva,-located-in-Bussolengo,-Verona,-Italy_UP	NA	Treponema	Blautia	Lactobacillus	Anaerostipes	Dorea
+bsdb:1165/1/2_Environmental-factor:Potamochoerus-porcus-housed-in-Bioparco,-located-in-Rome,-Italy_vs_Potamochoerus-porcus-housed-in-Parco-Natura-Viva,-located-in-Bussolengo,-Verona,-Italy_UP	NA	Alloprevotella	Sutterella
 bsdb:1166/1/1_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-who-are-breast-fed_vs_Infants-who-are-not-breast-fed_UP	NA	Bifidobacterium	Streptococcus
 bsdb:1166/1/2_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-who-are-breast-fed_vs_Infants-who-are-not-breast-fed_UP	NA	Bifidobacterium
 bsdb:1166/1/3_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-who-are-breast-fed_vs_Infants-who-are-not-breast-fed_DOWN	NA	Klebsiella
@@ -4927,5 +4930,5 @@ bsdb:1180/1/1_HIV-1-infection:Follow-up_vs_Baseline_UP	NA	Cutibacterium	Staphylo
 bsdb:1180/1/2_HIV-1-infection:Follow-up_vs_Baseline_DOWN	NA	Blautia	Fusicatenibacter	Ruminococcus	Collinsella	Catenibacterium	Lysobacter
 bsdb:1182/1/1_Myostatin-related-muscle-hypertrophy:GEF(Gene-edited-female)_vs_WTF(Wild-type-female)_UP	NA	Agathobaculum	Aminipila	Anaerotignum	Beduinella	Colidextribacter	Evtepia	Flavonifractor	Hungatella	Intestinimonas	Lactobacillus	Oribacterium	Oscillibacter	Pseudoflavonifractor	Ruthenibacterium	Streptococcus	Subdoligranulum
 bsdb:1182/1/2_Myostatin-related-muscle-hypertrophy:GEF(Gene-edited-female)_vs_WTF(Wild-type-female)_DOWN	NA	Alloprevotella	Phocaeicola
-bsdb:1182/3/1_Myostatin-related-muscle-hypertrophy:GEM(Gene-edited-male)_vs_WTM(Wild-type-male)_UP	NA	Oscillibacter	Pseudoflavonifractor	Agathobaculum	Aminipila	Anaerotignum	Beduinella	Colidextribacter	Evtepia	Flavonifractor	Hungatella	Intestinimonas	Lactobacillus	Oribacterium	Ruthenibacterium	Streptococcus	Subdoligranulum
+bsdb:1182/3/1_Myostatin-related-muscle-hypertrophy:GEM(Gene-edited-male)_vs_WTM(Wild-type-male)_UP	NA	Agathobaculum	Aminipila	Anaerotignum	Beduinella	Colidextribacter	Evtepia	Flavonifractor	Hungatella	Intestinimonas	Lactobacillus	Oribacterium	Oscillibacter	Pseudoflavonifractor	Ruthenibacterium	Streptococcus	Subdoligranulum
 bsdb:1182/3/2_Myostatin-related-muscle-hypertrophy:GEM(Gene-edited-male)_vs_WTM(Wild-type-male)_DOWN	NA	Alloprevotella	Phocaeicola

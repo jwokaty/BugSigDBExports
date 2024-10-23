@@ -1,4 +1,4 @@
-# BugSigDB 2024-10-23_11:10_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2024-10-23_12:22_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:1/1/1_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_UP	NA	91061	1236	1654	1716	1301	162289	189330	33024	40544	2037	2049	506	186826	1300	31977	91347	1653	57037	1386	186817
 bsdb:1/1/2_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_DOWN	NA	100883	1117
 bsdb:1/2/1_Hyperplastic-Polyp:hyperplastic-polyp-cases_vs_controls_UP	NA	207244	57037
@@ -5512,20 +5512,24 @@ bsdb:1160/4/1_Systemic-inflammatory-response-syndrome:FMT-HK-Group_vs_LPS-induce
 bsdb:1160/4/2_Systemic-inflammatory-response-syndrome:FMT-HK-Group_vs_LPS-induced-SIRS-(systemic-inflammatory-response-syndrome)-group_DOWN	NA	216572
 bsdb:1160/5/1_Systemic-inflammatory-response-syndrome:M-(Uncultured-Model)_vs_N-(uncultured-control)_DOWN	NA	1239	976
 bsdb:1160/7/1_Systemic-inflammatory-response-syndrome:MD-(cultured-model)_vs_ND-(cultured-control)_DOWN	NA	1239	976
+bsdb:1160/7/2_Systemic-inflammatory-response-syndrome:MD-(cultured-model)_vs_ND-(cultured-control)_UP	NA	816	547	1350	1940338
 bsdb:1160/8/1_Systemic-inflammatory-response-syndrome:C4-(Compound-4)_vs_MD-(cultured-model)_UP	NA	976	1239
 bsdb:1160/9/1_Systemic-inflammatory-response-syndrome:C50-(Compound-50)_vs_MD-(cultured-model)_UP	NA	1239	976
 bsdb:1160/10/1_Systemic-inflammatory-response-syndrome:M_vs_N_UP	NA	816	583	574697	1940338	375288	35832	1350	1485	1505660	3025755
 bsdb:1160/10/2_Systemic-inflammatory-response-syndrome:M_vs_N_DOWN	NA	174708	1331051	1508657	191303	707003
 bsdb:1160/11/1_Systemic-inflammatory-response-syndrome:MD_vs_ND_UP	NA	816	583	574697	1940338	375288	1485	35832	1350	1505660	3025755
 bsdb:1160/11/2_Systemic-inflammatory-response-syndrome:MD_vs_ND_DOWN	NA	1508657	174708	191303	1331051	707003
+bsdb:1160/12/1_Systemic-inflammatory-response-syndrome:A2.1,-B2.1,-C2.1,-D2.1,-E2.1-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_UP	NA	1239	976
+bsdb:1160/13/1_Systemic-inflammatory-response-syndrome:A2.1,-A2.2,-B2.1,-B2.2,-C2.1,-C2.2,-D2.1,-D2.2,-E2.1,-E2.2,-F2.1,-F2.2-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_DOWN	NA	816	547	1940338
+bsdb:1160/14/1_Systemic-inflammatory-response-syndrome:A2.1,-A2.2,-B2.1,-B2.2,-C2.1,-C2.2,-D2.1,-D2.2-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_UP	NA	1350
 bsdb:1161/1/1_Schistosomiasis:Schistosomiasis-positive_vs_Schistosomiasis-negative_UP	NA	469	1760	1283313	28221	872	194924	213115	39948	203491	203490	724	906	468	909932	133925	712	135625	186807	2740	838	171552	72274	1224	909929	31977	331632	31953
 bsdb:1161/1/2_Schistosomiasis:Schistosomiasis-positive_vs_Schistosomiasis-negative_DOWN	NA	1239	28216	1906119	1798710	186801	1117	186802	31969	544448	216572	375288	186804	171551	292632	331630	220137	658143	136703	1485
 bsdb:1162/1/1_Viral-encephalitis:Encephalitis-(ENC)_vs_healthy-controls-(CON)_UP	NA	91061	543	81852	128827	526525	1236	186826	171551	72274	171550	203557	48461	203494	1890499	1118	3028117	990719	526524
 bsdb:1162/1/2_Viral-encephalitis:Encephalitis-(ENC)_vs_healthy-controls-(CON)_DOWN	NA	171552	31979	186803	31977	506	80840	28216
 bsdb:1162/2/1_Viral-encephalitis:Encephalitis-(ENC)_vs_healthy-controls-(CON)_UP	NA	239934	91061	543	526525	1236	186826	2005473	119852	375288	171551	1224	171550	91347
 bsdb:1162/2/2_Viral-encephalitis:Encephalitis-(ENC)_vs_healthy-controls-(CON)_DOWN	NA	200643	28216	80840	186801	186802	216851	186803	838	1263	40544
-bsdb:1165/1/1_Gut-microbiome-measurement:Potamochoerus-porcus-housed-in-Bioparco,-located-in-Rome,-Italy_vs_Potamochoerus-porcus-housed-in-Parco-Natura-Viva,-located-in-Bussolengo,-Verona,-Italy_UP	NA	137	1653	157	572511	1578	207244	189330
-bsdb:1165/1/2_Gut-microbiome-measurement:Potamochoerus-porcus-housed-in-Bioparco,-located-in-Rome,-Italy_vs_Potamochoerus-porcus-housed-in-Parco-Natura-Viva,-located-in-Bussolengo,-Verona,-Italy_UP	NA	1283313	40544	2005523
+bsdb:1165/1/1_Environmental-factor:Potamochoerus-porcus-housed-in-Bioparco,-located-in-Rome,-Italy_vs_Potamochoerus-porcus-housed-in-Parco-Natura-Viva,-located-in-Bussolengo,-Verona,-Italy_UP	NA	137	1653	157	572511	1578	207244	189330
+bsdb:1165/1/2_Environmental-factor:Potamochoerus-porcus-housed-in-Bioparco,-located-in-Rome,-Italy_vs_Potamochoerus-porcus-housed-in-Parco-Natura-Viva,-located-in-Bussolengo,-Verona,-Italy_UP	NA	1283313	40544	2005523
 bsdb:1166/1/1_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-who-are-breast-fed_vs_Infants-who-are-not-breast-fed_UP	NA	1678	1301
 bsdb:1166/1/2_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-who-are-breast-fed_vs_Infants-who-are-not-breast-fed_UP	NA	216816
 bsdb:1166/1/3_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-who-are-breast-fed_vs_Infants-who-are-not-breast-fed_DOWN	NA	573
@@ -5580,11 +5584,12 @@ bsdb:1178/3/1_Lactose-intolerance:lactose-intolerant_vs_healthy-control_UP	NA	27
 bsdb:1178/3/2_Lactose-intolerance:lactose-intolerant_vs_healthy-control_DOWN	NA	216851	39485	1730	1485
 bsdb:1180/1/1_HIV-1-infection:Follow-up_vs_Baseline_UP	NA	1912216	1279	119060	543
 bsdb:1180/1/2_HIV-1-infection:Follow-up_vs_Baseline_DOWN	NA	572511	1407607	438033	102106	135858	68
-bsdb:1182/1/1_Myostatin-related-muscle-hypertrophy:GEF(Gene-edited-female)_vs_WTF(Wild-type-female)_UP	NA	2048137	2060094	2039240	1852363	1980681	2049045	2211178	2211183	1852894	1263002	1263006	946234	292800	1649459	154046	1392389	1578	265975	1945593	1017280	1905344	1301	292632	1898207
+bsdb:1182/1/1_Myostatin-related-muscle-hypertrophy:GEF(Gene-edited-female)_vs_WTF(Wild-type-female)_UP	NA	2048137	2060094	2039240	1852363	1898207	1980681	2049045	2211178	2211183	1852894	1263002	1263006	946234	292800	1649459	154046	1392389	1578	265975	1945593	1017280	1905344	1301	292632
 bsdb:1182/1/2_Myostatin-related-muscle-hypertrophy:GEF(Gene-edited-female)_vs_WTF(Wild-type-female)_DOWN	NA	1283313	2044936	821
-bsdb:1182/2/1_Myostatin-related-muscle-hypertrophy:GEF(Gene-edited-female)_vs_WTF(Wild-type-female)_UP	NA	1239	186801	186802	1898207
+bsdb:1182/2/1_Myostatin-related-muscle-hypertrophy:GEF(Gene-edited-female)_vs_WTF(Wild-type-female)_UP	NA	1239	186801	1898207	186802
 bsdb:1182/2/2_Myostatin-related-muscle-hypertrophy:GEF(Gene-edited-female)_vs_WTF(Wild-type-female)_DOWN	NA	171549	976	200643	171552
-bsdb:1182/3/1_Myostatin-related-muscle-hypertrophy:GEM(Gene-edited-male)_vs_WTM(Wild-type-male)_UP	NA	1945593	1017280	2048137	2060094	2039240	1852363	1980681	2049045	2211178	2211183	1852894	1263002	1263006	946234	292800	1649459	154046	1392389	1578	265975	1905344	1301	292632	1898207
+bsdb:1182/3/1_Myostatin-related-muscle-hypertrophy:GEM(Gene-edited-male)_vs_WTM(Wild-type-male)_UP	NA	2048137	2060094	2039240	1852363	1898207	1980681	2049045	2211178	2211183	1852894	1263002	1263006	946234	292800	1649459	154046	1392389	1578	265975	1945593	1017280	1905344	1301	292632
 bsdb:1182/3/2_Myostatin-related-muscle-hypertrophy:GEM(Gene-edited-male)_vs_WTM(Wild-type-male)_DOWN	NA	1283313	2044936	821
-bsdb:1182/4/1_Myostatin-related-muscle-hypertrophy:GEM(Gene-edited-male)_vs_WTM(Wild-type-male)_UP	NA	1239	186801	186802	1898207
-bsdb:1182/4/2_Myostatin-related-muscle-hypertrophy:GEM(Gene-edited-male)_vs_WTM(Wild-type-male)_DOWN	NA	976	200643	171549	171552
+bsdb:1182/4/1_Myostatin-related-muscle-hypertrophy:GEM(Gene-edited-male)_vs_WTM(Wild-type-male)_UP	NA	1239	186801	1898207	186802
+bsdb:1182/4/2_Myostatin-related-muscle-hypertrophy:GEM(Gene-edited-male)_vs_WTM(Wild-type-male)_DOWN	NA	171549	200643	976	171552
+bsdb:1183/1/1_Sickle-cell-disease-and-related-diseases:Sickle-Cell-Anaemia-cases_vs_Healthy-Siblings_UP	NA	201174
