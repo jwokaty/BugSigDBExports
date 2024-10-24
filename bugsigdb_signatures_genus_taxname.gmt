@@ -1,4 +1,4 @@
-# BugSigDB 2024-10-24_02:17_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2024-10-24_03:18_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:1/1/1_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_UP	NA	Actinomyces	Corynebacterium	Streptococcus	Peptoniphilus	Dorea	Phascolarctobacterium	Sutterella	Lacticaseibacillus	Bacillus
 bsdb:1/1/2_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_DOWN	NA	Coprobacillus
 bsdb:1/2/1_Hyperplastic-Polyp:hyperplastic-polyp-cases_vs_controls_UP	NA	Anaerostipes	Lacticaseibacillus
@@ -4627,9 +4627,6 @@ bsdb:1081/1/2_Taxonomic-microbiome-measurement:Highly-attractive-group_vs_Poorly
 bsdb:1082/1/2_Polycystic-ovary-syndrome:polycystic-ovary-syndrome-(PCOS)-like-mice_vs_Controls_DOWN	NA	Bacteroides	Parabacteroides	Aestuariispira
 bsdb:1083/1/1_Age:B-Group-(B25.2)_vs_B-Group-(B15.2)_UP	NA	Nitrospira
 bsdb:1083/5/2_Age:B-Group-(B45.4)_vs_B-Group-(B15.4)_DOWN	NA	Anaerolinea
-bsdb:1084/1/1_Recalcitrant-atopic-dermatitis:mild-atopic-dermatitis-(AD)_vs_healthy-controls_UP	NA	Mycobacterium
-bsdb:1084/1/2_Recalcitrant-atopic-dermatitis:mild-atopic-dermatitis-(AD)_vs_healthy-controls_DOWN	NA	Acinetobacter	Corynebacterium	Micrococcus
-bsdb:1084/2/2_Recalcitrant-atopic-dermatitis:mild-atopic-dermatitis-(AD)_vs_healthy-controls_DOWN	NA	Micrococcus
 bsdb:1085/1/1_Gut-microbiome-measurement:High-Bifidobacterium-group_vs_Low-Bifidobacterium-group_UP	NA	Bifidobacterium	Corynebacterium	Streptococcus
 bsdb:1085/1/2_Gut-microbiome-measurement:High-Bifidobacterium-group_vs_Low-Bifidobacterium-group_DOWN	NA	Staphylococcus	Enterococcus	Klebsiella	Clostridium
 bsdb:1085/2/1_Gut-microbiome-measurement:High-Bifidobacterium-group_vs_Low-Bifidobacterium-group_UP	NA	Actinomyces	Bifidobacterium	Enterococcus	Rothia	Streptococcus
@@ -4866,8 +4863,11 @@ bsdb:1160/10/1_Systemic-inflammatory-response-syndrome:M_vs_N_UP	NA	Bacteroides	
 bsdb:1160/10/2_Systemic-inflammatory-response-syndrome:M_vs_N_DOWN	NA	Allobaculum	Candidatus Saccharimonas	Ruminiclostridium	Turicibacter
 bsdb:1160/11/1_Systemic-inflammatory-response-syndrome:MD_vs_ND_UP	NA	Bacteroides	Proteus	Butyricimonas	Parabacteroides	Clostridium	Bilophila	Enterococcus	Asaccharospora	Thomasclavelia
 bsdb:1160/11/2_Systemic-inflammatory-response-syndrome:MD_vs_ND_DOWN	NA	Ruminiclostridium	Allobaculum	Turicibacter	Candidatus Saccharimonas
-bsdb:1160/13/1_Systemic-inflammatory-response-syndrome:A2.1,-A2.2,-B2.1,-B2.2,-C2.1,-C2.2,-D2.1,-D2.2,-E2.1,-E2.2,-F2.1,-F2.2-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_DOWN	NA	Bacteroides	Enterobacter
-bsdb:1160/14/1_Systemic-inflammatory-response-syndrome:A2.1,-A2.2,-B2.1,-B2.2,-C2.1,-C2.2,-D2.1,-D2.2-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_UP	NA	Enterococcus
+bsdb:1160/12/1_Systemic-inflammatory-response-syndrome:A2.1-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_UP	NA	Enterococcus
+bsdb:1160/12/2_Systemic-inflammatory-response-syndrome:A2.1-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_DOWN	NA	Bacteroides	Enterobacter
+bsdb:1160/13/1_Systemic-inflammatory-response-syndrome:A2.2(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_DOWN	NA	Bacteroides	Enterobacter	Enterococcus
+bsdb:1160/14/1_Systemic-inflammatory-response-syndrome:B2.1-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_UP	NA	Enterococcus
+bsdb:1160/14/2_Systemic-inflammatory-response-syndrome:B2.1-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_DOWN	NA	Bacteroides	Enterobacter
 bsdb:1160/15/1_Systemic-inflammatory-response-syndrome:PC1-(Patient-sample-1-treated-with-cocktail-c)_vs_PD1-(Patient-sample-1-with-DMSO)_DOWN	NA	Enterobacter
 bsdb:1160/16/1_Systemic-inflammatory-response-syndrome:PC2-(Patient-sample-2-treated-with-cocktail-c)_vs_PD2-(Patient-sample-2-with-DMSO)_DOWN	NA	Bacteroides	Parabacteroides
 bsdb:1160/17/1_Systemic-inflammatory-response-syndrome:PC4-(Patient-sample-4-treated-with-cocktail-c)_vs_PD4-(Patient-sample-4-with-DMSO)_DOWN	NA	Enterobacter	Bacteroides
@@ -4875,6 +4875,16 @@ bsdb:1160/19/1_Systemic-inflammatory-response-syndrome:PC6-(Patient-sample-6-tre
 bsdb:1160/20/2_Systemic-inflammatory-response-syndrome:PC8-(Patient-sample-8-treated-with-cocktail-c)_vs_PD8-(Patient-sample-8-with-DMSO)_UP	NA	Bifidobacterium
 bsdb:1160/21/1_Systemic-inflammatory-response-syndrome:P-(Patients-with-SIRS)_vs_H-(Healthy-Volunteers)_UP	NA	Enterococcus	Lactobacillus	Bacteroides	Enterobacter	Lachnoclostridium	Akkermansia	Pseudomonas	Ralstonia	Dysgonomonas
 bsdb:1160/21/2_Systemic-inflammatory-response-syndrome:P-(Patients-with-SIRS)_vs_H-(Healthy-Volunteers)_DOWN	NA	Bifidobacterium	Streptococcus	Blautia	Fusicatenibacter	Faecalibacterium	Dorea	Agathobacter	Romboutsia
+bsdb:1160/22/1_Systemic-inflammatory-response-syndrome:B2.2-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_UP	NA	Enterococcus
+bsdb:1160/22/2_Systemic-inflammatory-response-syndrome:B2.2-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_DOWN	NA	Bacteroides	Enterobacter
+bsdb:1160/23/1_Systemic-inflammatory-response-syndrome:C2.1-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_UP	NA	Enterococcus
+bsdb:1160/23/2_Systemic-inflammatory-response-syndrome:C2.1-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_DOWN	NA	Bacteroides	Enterobacter
+bsdb:1160/24/1_Systemic-inflammatory-response-syndrome:C2.2-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_DOWN	NA	Bacteroides	Enterobacter
+bsdb:1160/24/2_Systemic-inflammatory-response-syndrome:C2.2-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_UP	NA	Enterococcus
+bsdb:1160/25/1_Systemic-inflammatory-response-syndrome:D2.1-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_UP	NA	Enterococcus
+bsdb:1160/25/2_Systemic-inflammatory-response-syndrome:D2.1-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_DOWN	NA	Bacteroides	Enterobacter
+bsdb:1160/26/1_Systemic-inflammatory-response-syndrome:D2.2-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_UP	NA	Enterococcus
+bsdb:1160/26/2_Systemic-inflammatory-response-syndrome:D2.2-(gut-microbiome-remodeling-compound)_vs_MD-(cultured-model)_DOWN	NA	Bacteroides	Enterobacter
 bsdb:1161/1/1_Schistosomiasis:Schistosomiasis-positive_vs_Schistosomiasis-negative_UP	NA	Acinetobacter	Alloprevotella	Desulfovibrio	Dialister	Haemophilus	Megasphaera	Olsenella	Peptococcus	Prevotella
 bsdb:1161/1/2_Schistosomiasis:Schistosomiasis-positive_vs_Schistosomiasis-negative_DOWN	NA	Parabacteroides	Subdoligranulum	Clostridium
 bsdb:1162/2/1_Viral-encephalitis:Encephalitis-(ENC)_vs_healthy-controls-(CON)_UP	NA	Akkermansia	Oscillospira	Parabacteroides
@@ -4882,6 +4892,7 @@ bsdb:1162/2/2_Viral-encephalitis:Encephalitis-(ENC)_vs_healthy-controls-(CON)_DO
 bsdb:1165/1/1_Environmental-factor:Potamochoerus-porcus-housed-in-Rome_vs_Potamochoerus-porcus-housed-in-Verona_UP	NA	Alloprevotella	Cellulosilyticum	Lachnospira	Sutterella
 bsdb:1165/1/2_Environmental-factor:Potamochoerus-porcus-housed-in-Rome_vs_Potamochoerus-porcus-housed-in-Verona_DOWN	NA	Akkermansia	Treponema	Blautia	Candidatus Soleaferrea	Anaerostipes	Dorea	Papillibacter	Lactobacillus	Corynebacterium
 bsdb:1165/2/1_Environmental-factor:Potamochoerus-porcus-housed-in-Rome_vs_Potamochoerus-porcus-housed-in-Verona_UP	NA	Bifidobacterium
+bsdb:1165/2/2_Environmental-factor:Potamochoerus-porcus-housed-in-Rome_vs_Potamochoerus-porcus-housed-in-Verona_DOWN	NA	Bifidobacterium
 bsdb:1166/1/1_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-who-are-breast-fed_vs_Infants-who-are-not-breast-fed_UP	NA	Bifidobacterium	Streptococcus
 bsdb:1166/1/2_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-who-are-breast-fed_vs_Infants-who-are-not-breast-fed_UP	NA	Bifidobacterium
 bsdb:1166/1/3_Diarrhea,Diarrhea,-Infantile,Malnutrition:Infants-who-are-breast-fed_vs_Infants-who-are-not-breast-fed_DOWN	NA	Klebsiella
