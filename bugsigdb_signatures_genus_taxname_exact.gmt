@@ -1,4 +1,4 @@
-# BugSigDB 2024-10-24_20:13_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2024-10-24_21:12_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:1/1/1_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_UP	NA	Actinomyces	Corynebacterium	Streptococcus	Peptoniphilus	Dorea	Phascolarctobacterium	Sutterella	Bacillus
 bsdb:1/1/2_Colorectal-adenoma:conventional-adenoma-cases_vs_controls_DOWN	NA	Coprobacillus
 bsdb:1/2/1_Hyperplastic-Polyp:hyperplastic-polyp-cases_vs_controls_UP	NA	Anaerostipes
@@ -3578,12 +3578,6 @@ bsdb:1070/6/2_Hypertension:Hypertension-(HTN)_vs_no-Hypertension-(no-HTN)_DOWN	N
 bsdb:1071/1/1_Psoriasis:Psoriasis_vs_Healthy-Control-(HC)_UP	NA	Faecalibacterium	Gemmiger	Megamonas	Pyramidobacter	Synergistes
 bsdb:1071/1/2_Psoriasis:Psoriasis_vs_Healthy-Control-(HC)_DOWN	NA	Fusobacterium	Bacteroides
 bsdb:1071/2/1_Gut-microbiome-measurement:Psoriasis-Vulgaris-(PV)_vs_Pustular-Psoriasis-(PP)_DOWN	NA	Anaerorhabdus	Faecalibacterium
-bsdb:1072/1/1_Non-alcoholic-fatty-liver-disease:HIV+-MASLD+_vs_HIV--MASLD+_UP	NA	Dorea	Tyzzerella	Mogibacterium	Solobacterium	Romboutsia	Clostridium	Peptococcus	Methanobrevibacter	Marvinbryantia	Holdemanella	Blautia	Lachnoclostridium
-bsdb:1072/1/2_Non-alcoholic-fatty-liver-disease:HIV+-MASLD+_vs_HIV--MASLD+_DOWN	NA	Ruminiclostridium	Enterococcus	Pantoea	Yersinia	Lactobacillus	Ruminococcus	Streptococcus	Agathobacter	Roseburia	Alistipes	Subdoligranulum	Weissella	Anaerostipes
-bsdb:1072/2/1_Non-alcoholic-fatty-liver-disease:HIV+-MASLD+_vs_HIV+-MASLD-_UP	NA	Dorea	Tyzzerella	Mogibacterium	Solobacterium	Romboutsia	Clostridium	Peptococcus	Methanobrevibacter	Marvinbryantia	Holdemanella	Blautia	Lachnoclostridium
-bsdb:1072/2/2_Non-alcoholic-fatty-liver-disease:HIV+-MASLD+_vs_HIV+-MASLD-_DOWN	NA	Acidaminococcus	Alloprevotella	Anaerovibrio	Asteroleplasma	Catenibacterium	Collinsella	Megasphaera	Mitsuokella	Parabacteroides	Paraprevotella	Phascolarctobacterium	Porphyromonas	Prevotella	Succinivibrio	Sutterella	Dialister	Bacteroides
-bsdb:1072/3/1_Non-alcoholic-fatty-liver-disease:HIV--MASLD+_vs_HIV+-MASLD-_UP	NA	Ruminiclostridium	Enterococcus	Pantoea	Yersinia	Lactobacillus	Ruminococcus	Streptococcus	Agathobacter	Roseburia	Alistipes	Anaerostipes	Subdoligranulum	Weissella
-bsdb:1072/3/2_Non-alcoholic-fatty-liver-disease:HIV--MASLD+_vs_HIV+-MASLD-_DOWN	NA	Acidaminococcus	Alloprevotella	Anaerovibrio	Asteroleplasma	Catenibacterium	Collinsella	Megasphaera	Mitsuokella	Parabacteroides	Paraprevotella	Phascolarctobacterium	Porphyromonas	Prevotella	Succinivibrio	Sutterella	Dialister	Bacteroides
 bsdb:1073/1/1_Bacterial-disease:Diseased-sea-urchins_vs_Healthy-sea-urchins_UP	NA	Amylibacter	Aureispira	Colwellia	Donghicola	Fusibacter	Granulosicoccus	Halocynthiibacter	Haloferula	Leucothrix	Luteibaculum	Lutimonas	Planctomicrobium	Poseidonibacter	Pseudoteredinibacter	Reichenbachiella	Rhodopirellula	Roseimarinus	Roseobacter
 bsdb:1073/1/2_Bacterial-disease:Diseased-sea-urchins_vs_Healthy-sea-urchins_DOWN	NA	Agarivorans	Candidatus Entotheonella	Candidatus Riegeria	Desulfobulbus	Desulfotalea	Devosia	Draconibacterium	Flagellimonas	Halioglobus	Hyphococcus	Jannaschia	Pseudahrensia	Psychroflexus	Rhodopirellula	Roseimarinus	Rubidimonas	Shewanella	Ulvibacter
 bsdb:1073/2/1_Bacterial-disease:Recovered-sea-urchins_vs_Healthy-sea-urchins_UP	NA	Aestuariicella	Aliikangiella	Coxiella	Desulforhopalus	Desulfovibrio	Oceanicoccus	Roseibacillus	Rubritalea	Thalassotalea	Vibrio
@@ -3950,8 +3944,11 @@ bsdb:1182/3/2_Myostatin-related-muscle-hypertrophy:GEM(Gene-edited-male)_vs_WTM(
 bsdb:1183/1/2_Sickle-cell-anemia:Sickle-Cell-Anaemia-cases_vs_Healthy-Siblings_DOWN	NA	Polaribacter	Aestuariispira	Helicobacter	Anaerorhabdus	Campylobacter
 bsdb:1183/2/1_Sickle-cell-disease-associated-with-an-other-hemoglobin-anomaly:Foetal-haemoglobin-level->-5%_vs_Foetal-haemoglobin-level-<-5%_UP	NA	Ruminococcus
 bsdb:1183/2/2_Sickle-cell-disease-associated-with-an-other-hemoglobin-anomaly:Foetal-haemoglobin-level->-5%_vs_Foetal-haemoglobin-level-<-5%_DOWN	NA	Kandleria
+bsdb:1185/1/2_Visceral-adipose-tissue-measurement,Gut-microbiome-measurement:High-VAT-group-(Case/Exposed-group)_vs_Low-VAT-group-(Control/Unexposed-group)._DOWN	NA	Bacteroides
+bsdb:1185/2/1_Human-gut-metagenome:High-LPS-levels_vs_Low-LPS-levels_UP	NA	Salmonella
+bsdb:1185/2/2_Human-gut-metagenome:High-LPS-levels_vs_Low-LPS-levels_DOWN	NA	Faecalibacterium	Alistipes
 bsdb:1185/3/2_IGA-glomerulonephritis:High-IgA-response_vs_Low-IgA-response_DOWN	NA	Blautia	Coprococcus
 bsdb:1185/4/1_Eating-behaviour:High-HEI-group_vs_Low-HEI-group_UP	NA	Streptococcus	Megasphaera
 bsdb:1185/4/2_Eating-behaviour:High-HEI-group_vs_Low-HEI-group_DOWN	NA	Barnesiella	Bifidobacterium	Akkermansia
 bsdb:1185/5/1_Plasma-Cell-Count:High-Plasma-LBP-group_vs_Low-Plasma-LBP-group_UP	NA	Dialister	Parabacteroides
-bsdb:1185/5/2_Plasma-Cell-Count:High-Plasma-LBP-group_vs_Low-Plasma-LBP-group_DOWN	NA	Bacteroides	Clostridium
+bsdb:1185/5/2_Plasma-Cell-Count:High-Plasma-LBP-group_vs_Low-Plasma-LBP-group_DOWN	NA	Clostridium	Bacteroides
