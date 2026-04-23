@@ -170,7 +170,7 @@ if(length(cmd.args) < 2 || length(cmd.args) > 3)
 version <- cmd.args[1]
 out.dir <- cmd.args[2]
 stopifnot(file.exists(out.dir))
-validate <- ifelse(length(cmd.args) == 3, cmd.args[3], FALSE)
+validate <- ifelse(length(cmd.args) == 3, cmd.args[3] == 'true', FALSE)
 
 # header line for output files
 header <- paste0("# BugSigDB ", version,
