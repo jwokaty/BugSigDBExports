@@ -1,4 +1,4 @@
-# BugSigDB 2026-04-23_18:45_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2026-04-23_19:05_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:11/1/1_Cervical-glandular-intraepithelial-neoplasia:HIV-patients-with-lesion-at-12-months_vs_HIV-pateints-with-normal-tissue-at-6-months_DOWN	NA	2702
 bsdb:39/1/1_Body-odor-measurement:youth-underarm-after-exercise_vs_youth-underarm-before_UP	NA	1282
 bsdb:39/1/2_Body-odor-measurement:youth-underarm-after-exercise_vs_youth-underarm-before_DOWN	NA	265
@@ -11631,7 +11631,7 @@ bsdb:40919785/1/2_Acute-pancreatitis:Rifaximin_vs_Control_UP	NA	544	1980681	1729
 bsdb:40919785/2/1_Acute-pancreatitis:Caerulein+-Bombesin+-Rifaximin-group_vs_Caerulein+-Bombesin-group_DOWN	NA	201174	239934	239759	1283313	1678	1331051	872	1350	200940	74201
 bsdb:40919785/2/2_Acute-pancreatitis:Caerulein+-Bombesin+-Rifaximin-group_vs_Caerulein+-Bombesin-group_UP	NA	544	1729679	209	570	1506553	577310	1224	29547
 bsdb:40919785/3/1_Acute-pancreatitis:Control-group-after-treatment-(T1)_vs_Control-group-before-treatment-(T0)_DOWN	NA	328813	28117	328814	1872444	649756	2292944	46506	544645	2044939	1898207	61645	1354	35783	562	850	437897	28118	1945593	46503	2049040	624	625	2494234	2293248
-bsdb:40919785/3/2_Acute-pancreatitis:Control-group-after-treatment-(T1)_vs_Control-group-before-treatment-(T0)_DOWN	NA	1351	1352
+bsdb:40919785/3/2_Acute-pancreatitis:Control-group-after-treatment-(T1)_vs_Control-group-before-treatment-(T0)_UP	NA	1351	1352
 bsdb:40919785/4/1_Acute-pancreatitis:After-Treatment_vs_Before-Treatment_DOWN	NA	1352	1351
 bsdb:40919785/4/2_Acute-pancreatitis:After-Treatment_vs_Before-Treatment_UP	NA	39491	28117	47678	246787	28111	338188	817	818	418240	88431	208479	853	1971605	2292234	29361	154046	1898203	363265	33039	33025	59823	1262929	360807	165179	59620	77133	2292242
 bsdb:40919785/4/3_Acute-pancreatitis:After-Treatment_vs_Before-Treatment_DOWN	NA	817	818	47678	208479	1318	158836
