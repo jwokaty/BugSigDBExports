@@ -136,6 +136,7 @@ jobs:
               "title": "Release candidate",
               "head": "${{ github.event.inputs.branch }}",
               "base": "devel",
-              "body": ""
+              "body": "Please review the PR. Close, don't merge. Delete any unwanted branches.",
+              "draft": true
             }'
           echo "PR opened"
