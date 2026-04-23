@@ -1,4 +1,4 @@
-# BugSigDB 2026-04-23_18:45_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2026-04-23_20:02_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:11/1/1_Cervical-glandular-intraepithelial-neoplasia:HIV-patients-with-lesion-at-12-months_vs_HIV-pateints-with-normal-tissue-at-6-months_DOWN	NA	2702
 bsdb:39/1/1_Body-odor-measurement:youth-underarm-after-exercise_vs_youth-underarm-before_UP	NA	1282
 bsdb:39/1/2_Body-odor-measurement:youth-underarm-after-exercise_vs_youth-underarm-before_DOWN	NA	265
@@ -10405,6 +10405,7 @@ bsdb:39931171/1/1_Crohn's-disease:Tstr-(Crohn's-disease-(CD)-patients-with-fibro
 bsdb:39931171/1/2_Crohn's-disease:Tstr-(Crohn's-disease-(CD)-patients-with-fibrous-stenosis)_vs_Tnstr-(Crohn's-disease-(CD)-patients-without-stenosis)_DOWN	NA	1760	201174	28211	91061	451459	1385	4761	1870884	2732406	186826	2159	1762	85007	186804	583	584	90964	1300	1301
 bsdb:39931171/2/1_Crohn's-disease:Tstr-(Crohn's-disease-(CD)-patients-with-fibrous-stenosis)_vs_Tnstr-(Crohn's-disease-(CD)-patients-without-stenosis)_UP	NA	816	2719313
 bsdb:39931171/2/2_Crohn's-disease:Tstr-(Crohn's-disease-(CD)-patients-with-fibrous-stenosis)_vs_Tnstr-(Crohn's-disease-(CD)-patients-without-stenosis)_DOWN	NA	1760	201174	91061	186826	1300	1301
+bsdb:39938307/1/2_Environmental-factor:After-retrofits_vs_Before-retrofits_DOWN	NA	13687	1279	1269	1716	1912216
 bsdb:39939548/1/1_Response-to-immune-checkpoint-inhibitor:Responsive-Patients_vs_Non-Responsive-Patients_UP	NA	111015	712124	1917867	2086579	1776383	33043
 bsdb:39939548/1/2_Response-to-immune-checkpoint-inhibitor:Responsive-Patients_vs_Non-Responsive-Patients_DOWN	NA	209880	1913988	33034	2720814	2721137	2292991	1898204	2293011	2040291	71452	2606708	29348	89153	2093857
 bsdb:39939954/1/1_Exercise:T3-(Day-9-–-end-of-retreat)_vs_T1-(Day-0-–-baseline)_UP	NA	447020	1766253	239759	816	1678	135858	33042	189330	1350	1940338	1573535	1505657	877420	1243	2767887	375288	1263	84108	33039
@@ -11631,7 +11632,7 @@ bsdb:40919785/1/2_Acute-pancreatitis:Rifaximin_vs_Control_UP	NA	544	1980681	1729
 bsdb:40919785/2/1_Acute-pancreatitis:Caerulein+-Bombesin+-Rifaximin-group_vs_Caerulein+-Bombesin-group_DOWN	NA	201174	239934	239759	1283313	1678	1331051	872	1350	200940	74201
 bsdb:40919785/2/2_Acute-pancreatitis:Caerulein+-Bombesin+-Rifaximin-group_vs_Caerulein+-Bombesin-group_UP	NA	544	1729679	209	570	1506553	577310	1224	29547
 bsdb:40919785/3/1_Acute-pancreatitis:Control-group-after-treatment-(T1)_vs_Control-group-before-treatment-(T0)_DOWN	NA	328813	28117	328814	1872444	649756	2292944	46506	544645	2044939	1898207	61645	1354	35783	562	850	437897	28118	1945593	46503	2049040	624	625	2494234	2293248
-bsdb:40919785/3/2_Acute-pancreatitis:Control-group-after-treatment-(T1)_vs_Control-group-before-treatment-(T0)_DOWN	NA	1351	1352
+bsdb:40919785/3/2_Acute-pancreatitis:Control-group-after-treatment-(T1)_vs_Control-group-before-treatment-(T0)_UP	NA	1351	1352
 bsdb:40919785/4/1_Acute-pancreatitis:After-Treatment_vs_Before-Treatment_DOWN	NA	1352	1351
 bsdb:40919785/4/2_Acute-pancreatitis:After-Treatment_vs_Before-Treatment_UP	NA	39491	28117	47678	246787	28111	338188	817	818	418240	88431	208479	853	1971605	2292234	29361	154046	1898203	363265	33039	33025	59823	1262929	360807	165179	59620	77133	2292242
 bsdb:40919785/4/3_Acute-pancreatitis:After-Treatment_vs_Before-Treatment_DOWN	NA	817	818	47678	208479	1318	158836
@@ -12356,6 +12357,8 @@ bsdb:41940802/2/1_Translocation:Stunted-children_vs_Non-stunted-children_UP	NA	1
 bsdb:41940802/3/1_Translocation:Stunted-children_vs_Non-stunted-children_UP	NA	713008	72
 bsdb:41940802/4/1_Translocation:Stunted-children_vs_Non-stunted-children_UP	NA	871664	592978
 bsdb:41940802/4/2_Translocation:Stunted-children_vs_Non-stunted-children_DOWN	NA	33043
+bsdb:41957179/1/1_Alcohol-use-disorder-measurement:Post-intervention-(PI-OR)-group_vs_Baseline-(BL-OR)-group_UP	NA	1224	95818	482	724	836	848	508215
+bsdb:41957179/1/2_Alcohol-use-disorder-measurement:Post-intervention-(PI-OR)-group_vs_Baseline-(BL-OR)-group_DOWN	NA	201174	1239	976	29547	2572087	32066	544448	838	203691	1301	508458	157	29465	970
 bsdb:41962594/1/1_High-fat-diet:Rats-fed-with-high-fat-diet_vs_Rats-fed-with-standard-diet_UP	NA	200940	74201	1239
 bsdb:41962594/1/2_High-fat-diet:Rats-fed-with-high-fat-diet_vs_Rats-fed-with-standard-diet_DOWN	NA	201174	976	1224
 bsdb:41962594/2/1_High-fat-diet:Rats-fed-with-high-fat-diet-then-standard-diet_vs_Rats-fed-with-standard-diet_UP	NA	976

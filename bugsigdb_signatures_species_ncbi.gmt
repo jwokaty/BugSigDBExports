@@ -1,4 +1,4 @@
-# BugSigDB 2026-04-23_18:45_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2026-04-23_20:02_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:11/1/1_Cervical-glandular-intraepithelial-neoplasia:HIV-patients-with-lesion-at-12-months_vs_HIV-pateints-with-normal-tissue-at-6-months_DOWN	NA	2702
 bsdb:39/1/1_Body-odor-measurement:youth-underarm-after-exercise_vs_youth-underarm-before_UP	NA	1282
 bsdb:39/2/1_Body-odor-measurement:youth-Neck-before_vs_after-excercise_DOWN	NA	33011	108981
@@ -5182,7 +5182,7 @@ bsdb:40914795/1/1_NA:Q4-(Quartile-4)---High-level-of-diet_vs_Q1-(Quartile-1)---L
 bsdb:40914795/1/2_NA:Q4-(Quartile-4)---High-level-of-diet_vs_Q1-(Quartile-1)---Low-level-of-diet_DOWN	NA	1322	84135
 bsdb:40915037/3/1_Infertility:Abnormal-spermiogram_vs_Normal-spermiogram_UP	NA	1940338
 bsdb:40919785/3/1_Acute-pancreatitis:Control-group-after-treatment-(T1)_vs_Control-group-before-treatment-(T0)_DOWN	NA	328813	28117	328814	1872444	649756	2292944	46506	544645	2044939	1898207	61645	1354	35783	562	850	437897	28118	1945593	46503	2049040	624	625	2494234	2293248
-bsdb:40919785/3/2_Acute-pancreatitis:Control-group-after-treatment-(T1)_vs_Control-group-before-treatment-(T0)_DOWN	NA	1351	1352
+bsdb:40919785/3/2_Acute-pancreatitis:Control-group-after-treatment-(T1)_vs_Control-group-before-treatment-(T0)_UP	NA	1351	1352
 bsdb:40919785/4/1_Acute-pancreatitis:After-Treatment_vs_Before-Treatment_DOWN	NA	1352	1351
 bsdb:40919785/4/2_Acute-pancreatitis:After-Treatment_vs_Before-Treatment_UP	NA	39491	28117	47678	246787	28111	338188	817	818	418240	88431	208479	853	1971605	2292234	29361	154046	1898203	363265	33039	33025	59823	1262929	360807	165179	59620	77133	2292242
 bsdb:40919785/4/3_Acute-pancreatitis:After-Treatment_vs_Before-Treatment_DOWN	NA	817	818	47678	208479	1318	158836
@@ -5506,6 +5506,7 @@ bsdb:41940802/2/1_Translocation:Stunted-children_vs_Non-stunted-children_UP	NA	1
 bsdb:41940802/3/1_Translocation:Stunted-children_vs_Non-stunted-children_UP	NA	713008	72
 bsdb:41940802/4/1_Translocation:Stunted-children_vs_Non-stunted-children_UP	NA	871664	592978
 bsdb:41940802/4/2_Translocation:Stunted-children_vs_Non-stunted-children_DOWN	NA	33043
+bsdb:41957179/1/2_Alcohol-use-disorder-measurement:Post-intervention-(PI-OR)-group_vs_Baseline-(BL-OR)-group_DOWN	NA	2572087
 bsdb:41962594/3/1_High-fat-diet:Rats-fed-with-high-fat-diet,-Rats-fed-with-high-fat-diet-then-standard-diet_vs_Rats-fed-with-standard-diet_UP	NA	1872421	35783
 bsdb:41962594/3/2_High-fat-diet:Rats-fed-with-high-fat-diet,-Rats-fed-with-high-fat-diet-then-standard-diet_vs_Rats-fed-with-standard-diet_DOWN	NA	2053632
 bsdb:41962594/4/1_High-fat-diet:Rats-fed-with-high-fat-diet-then-standard-diet_vs_Rats-fed-with-standard-diet_UP	NA	1872421	35783
