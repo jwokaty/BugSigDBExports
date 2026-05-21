@@ -1,4 +1,4 @@
-# BugSigDB 2026-05-20_21:51_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2026-05-21_19:49_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:83/1/1_Obesity:before-surgery_vs_after-surgery_UP	NA	40214	105841	159	410072	853	833	860	1579	173	1598	1768	53461	300	1282	500	160	29348
 bsdb:83/1/2_Obesity:before-surgery_vs_after-surgery_DOWN	NA	69218	28901	621	39778	29466
 bsdb:817/1/1_Granulomatosis-with-Polyangiitis:Kidneys-with-calcification_vs_Healthy/Healthy-with-no-visible-granuloma_UP	NA	2578121
@@ -267,6 +267,11 @@ bsdb:28195358/1/1_Parkinson's-disease:Parkinson's-Disease-Patients_vs_Controls_U
 bsdb:28195358/1/2_Parkinson's-disease:Parkinson's-Disease-Patients_vs_Controls_DOWN	NA	1955243
 bsdb:28195358/2/1_Parkinson's-disease:Parkinson's-Disease-Patients_vs_Controls_UP	NA	41200
 bsdb:28195358/2/2_Parkinson's-disease:Parkinson's-Disease-Patients_vs_Controls_DOWN	NA	1955243
+bsdb:28198672/1/1_Periodontitis:Stable-Periodontitis_vs_Healthy-control_DOWN	NA	43768	29391	729	484	29466
+bsdb:28198672/2/1_Periodontitis:Progressing-Periodontitis_vs_Healthy-control_UP	NA	1596
+bsdb:28198672/2/2_Periodontitis:Progressing-Periodontitis_vs_Healthy-control_DOWN	NA	204	43768	29391	729	484	1305	29466
+bsdb:28198672/3/1_Periodontitis:Progressing-Periodontitis_vs_Stable-Periodontitis_UP	NA	1596	133926
+bsdb:28198672/3/2_Periodontitis:Progressing-Periodontitis_vs_Stable-Periodontitis_DOWN	NA	204
 bsdb:28199741/2/2_Obesity:high-fat-diet-+-melatonin_vs_high-fat-diet_DOWN	NA	152490
 bsdb:28320468/2/1_Systemic-lupus-erythematosus:Systemic-Lupus-Erythematosus-with-Chronic-periodontitis-(SLE-CP)_vs_Controls-with-Chronic-periodontitis-(C-CP)_UP	NA	407975	28136	51160	651822
 bsdb:28320468/2/2_Systemic-lupus-erythematosus:Systemic-Lupus-Erythematosus-with-Chronic-periodontitis-(SLE-CP)_vs_Controls-with-Chronic-periodontitis-(C-CP)_DOWN	NA	1017	46124	729	589436	431059	1305	172042

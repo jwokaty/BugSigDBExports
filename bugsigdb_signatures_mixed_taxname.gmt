@@ -1,4 +1,4 @@
-# BugSigDB 2026-05-20_21:51_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2026-05-21_19:49_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:83/1/1_Obesity:before-surgery_vs_after-surgery_UP	NA	Acinetobacter johnsonii	Anaerostipes	Anaerostipes caccae	Brachyspira hyodysenteriae	Coprococcus	Allocoprococcus comes	Faecalibacterium	Faecalibacterium prausnitzii	Fibrobacter succinogenes	Fusobacterium periodonticum	Helicobacter	Lactobacillus acidophilus	Leptospira interrogans	Limosilactobacillus reuteri	Mycobacterium kansasii	Nakamurella multipartita	Ectopseudomonas mendocina	Staphylococcus epidermidis	Thermomicrobium roseum	Treponema pallidum	Thomasclavelia spiroformis	Dictyostelium	Epidinium
 bsdb:83/1/2_Obesity:before-surgery_vs_after-surgery_DOWN	NA	Citrobacter	Enterobacter	Enterobacter cancerogenus	Salmonella	Salmonella enterica	Shigella boydii	Veillonella	Veillonella dispar	Veillonella parvula	Neurospora
 bsdb:817/1/1_Granulomatosis-with-Polyangiitis:Kidneys-with-calcification_vs_Healthy/Healthy-with-no-visible-granuloma_UP	NA	Candidatus Actinomarina sp.	Flavobacteriaceae
@@ -802,6 +802,11 @@ bsdb:28195358/1/1_Parkinson's-disease:Parkinson's-Disease-Patients_vs_Controls_U
 bsdb:28195358/1/2_Parkinson's-disease:Parkinson's-Disease-Patients_vs_Controls_DOWN	NA	Blautia	Blautia sp.	Coprococcus	Faecalibacterium	Lachnospiraceae	Pasteurellaceae	Roseburia
 bsdb:28195358/2/1_Parkinson's-disease:Parkinson's-Disease-Patients_vs_Controls_UP	NA	Bifidobacterium	Bifidobacterium sp.	Parabacteroides	Prevotella	Lactobacillus	Oscillospiraceae	Christensenellaceae	Akkermansia	Bifidobacteriaceae	Lactobacillaceae	Tissierellaceae	Verrucomicrobiaceae
 bsdb:28195358/2/2_Parkinson's-disease:Parkinson's-Disease-Patients_vs_Controls_DOWN	NA	Blautia	Blautia sp.	Coprococcus	Faecalibacterium	Lachnospiraceae	Pasteurellaceae	Roseburia
+bsdb:28198672/1/1_Periodontitis:Stable-Periodontitis_vs_Healthy-control_DOWN	NA	Corynebacterium matruchotii	Gemella morbillorum	Haemophilus parainfluenzae	Neisseria flavescens	Veillonella parvula
+bsdb:28198672/2/1_Periodontitis:Progressing-Periodontitis_vs_Healthy-control_UP	NA	Lactobacillus gasseri
+bsdb:28198672/2/2_Periodontitis:Progressing-Periodontitis_vs_Healthy-control_DOWN	NA	Campylobacter showae	Corynebacterium matruchotii	Gemella morbillorum	Haemophilus parainfluenzae	Neisseria flavescens	Streptococcus sanguinis	Veillonella parvula
+bsdb:28198672/3/1_Periodontitis:Progressing-Periodontitis_vs_Stable-Periodontitis_UP	NA	Lactobacillus gasseri	Olsenella uli
+bsdb:28198672/3/2_Periodontitis:Progressing-Periodontitis_vs_Stable-Periodontitis_DOWN	NA	Campylobacter showae
 bsdb:28199741/1/1_Obesity:high-fat-diet_vs_normal-chow-diet_UP	NA	Acetitomaculum	Prevotellaceae	Ruminococcus	Marvinbryantia	Alistipes	Blautia
 bsdb:28199741/1/2_Obesity:high-fat-diet_vs_normal-chow-diet_DOWN	NA	Bacteroides	Odoribacter	Anaerovorax	Butyricimonas	Christensenellaceae	Helicobacter	Christensenella	Bilophila	Mycoplasmatota	Oscillibacter
 bsdb:28199741/2/1_Obesity:high-fat-diet-+-melatonin_vs_high-fat-diet_UP	NA	Proteus	Odoribacter	Helicobacter	Anaerovorax	Desulfovibrio	Desulfovibrionaceae	Butyricimonas	Akkermansia	Antricoccus

@@ -1,4 +1,4 @@
-# BugSigDB 2026-05-20_21:51_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2026-05-21_19:49_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:83/1/1_Obesity:before-surgery_vs_after-surgery_UP	NA	40214	207244	105841	159	33042	410072	216851	853	833	860	209	1579	173	1598	1768	53461	300	1282	500	160	29348	5782	40637
 bsdb:83/1/2_Obesity:before-surgery_vs_after-surgery_DOWN	NA	544	547	69218	590	28901	621	29465	39778	29466	5140
 bsdb:817/1/1_Granulomatosis-with-Polyangiitis:Kidneys-with-calcification_vs_Healthy/Healthy-with-no-visible-granuloma_UP	NA	2578121	49546
@@ -802,6 +802,11 @@ bsdb:28195358/1/1_Parkinson's-disease:Parkinson's-Disease-Patients_vs_Controls_U
 bsdb:28195358/1/2_Parkinson's-disease:Parkinson's-Disease-Patients_vs_Controls_DOWN	NA	572511	1955243	33042	216851	186803	712	841
 bsdb:28195358/2/1_Parkinson's-disease:Parkinson's-Disease-Patients_vs_Controls_UP	NA	1678	41200	375288	838	1578	216572	990719	239934	31953	33958	1737406	203557
 bsdb:28195358/2/2_Parkinson's-disease:Parkinson's-Disease-Patients_vs_Controls_DOWN	NA	572511	1955243	33042	216851	186803	712	841
+bsdb:28198672/1/1_Periodontitis:Stable-Periodontitis_vs_Healthy-control_DOWN	NA	43768	29391	729	484	29466
+bsdb:28198672/2/1_Periodontitis:Progressing-Periodontitis_vs_Healthy-control_UP	NA	1596
+bsdb:28198672/2/2_Periodontitis:Progressing-Periodontitis_vs_Healthy-control_DOWN	NA	204	43768	29391	729	484	1305	29466
+bsdb:28198672/3/1_Periodontitis:Progressing-Periodontitis_vs_Stable-Periodontitis_UP	NA	1596	133926
+bsdb:28198672/3/2_Periodontitis:Progressing-Periodontitis_vs_Stable-Periodontitis_DOWN	NA	204
 bsdb:28199741/1/1_Obesity:high-fat-diet_vs_normal-chow-diet_UP	NA	31980	171552	1263	248744	239759	572511
 bsdb:28199741/1/2_Obesity:high-fat-diet_vs_normal-chow-diet_DOWN	NA	816	283168	109326	574697	990719	209	990721	35832	544448	459786
 bsdb:28199741/2/1_Obesity:high-fat-diet-+-melatonin_vs_high-fat-diet_UP	NA	583	283168	209	109326	872	194924	574697	239934	1920251
