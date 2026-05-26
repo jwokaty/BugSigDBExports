@@ -1,3 +1,27 @@
+CHANGES IN VERSION v1.4.3
+------------------------
+NEW DATA
+
+
+    o full_dump.csv: 8476 rows (+47)
+    o bugsigdb_signatures_genus_metaphlan.gmt: 5519 rows (+18)
+    o bugsigdb_signatures_genus_metaphlan_exact.gmt: 5518 rows (+18)
+    o bugsigdb_signatures_genus_ncbi.gmt: 5519 rows (+18)
+    o bugsigdb_signatures_genus_ncbi_exact.gmt: 5518 rows (+18)
+    o bugsigdb_signatures_genus_taxname.gmt: 5519 rows (+18)
+    o bugsigdb_signatures_genus_taxname_exact.gmt: 5518 rows (+18)
+    o bugsigdb_signatures_mixed_metaphlan.gmt: 7670 rows (+47)
+    o bugsigdb_signatures_mixed_ncbi.gmt: 7670 rows (+47)
+    o bugsigdb_signatures_mixed_taxname.gmt: 7670 rows (+47)
+    o bugsigdb_signatures_species_metaphlan.gmt: 3435 rows (+12)
+    o bugsigdb_signatures_species_metaphlan_exact.gmt: 3435 rows (+12)
+    o bugsigdb_signatures_species_ncbi.gmt: 3435 rows (+12)
+    o bugsigdb_signatures_species_ncbi_exact.gmt: 3435 rows (+12)
+    o bugsigdb_signatures_species_taxname.gmt: 3435 rows (+12)
+    o bugsigdb_signatures_species_taxname_exact.gmt: 3435 rows (+12)
+
+dry run with news
+
 CHANGES IN VERSION v1.3.12
 ------------------------
 NEW DATA

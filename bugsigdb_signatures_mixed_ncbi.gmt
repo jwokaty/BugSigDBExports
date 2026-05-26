@@ -1,4 +1,4 @@
-# BugSigDB 2026-05-21_19:49_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2026-05-26_15:52_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:83/1/1_Obesity:before-surgery_vs_after-surgery_UP	NA	40214	207244	105841	159	33042	410072	216851	853	833	860	209	1579	173	1598	1768	53461	300	1282	500	160	29348	5782	40637
 bsdb:83/1/2_Obesity:before-surgery_vs_after-surgery_DOWN	NA	544	547	69218	590	28901	621	29465	39778	29466	5140
 bsdb:817/1/1_Granulomatosis-with-Polyangiitis:Kidneys-with-calcification_vs_Healthy/Healthy-with-no-visible-granuloma_UP	NA	2578121	49546
@@ -4546,6 +4546,10 @@ bsdb:36303234/8/1_Polycystic-ovary-syndrome:PCOS-LB-(Polycystic-ovary-syndrome--
 bsdb:36303234/8/2_Polycystic-ovary-syndrome:PCOS-LB-(Polycystic-ovary-syndrome---Normal-Body-mass-index)-patients_vs_Healthy-LB-(Normal-Body-mass-index)-subjects_DOWN	NA	5104	34438	1934360	77526	13474	766728	5133	5140	284134	798159	1851575	749880	164535	45153
 bsdb:36303234/11/1_Polycystic-ovary-syndrome:PCOS-LB-(Polycystic-ovary-syndrome---Normal-Body-mass-index)-patients_vs_Healthy-LB-(Normal-Body-mass-index)-subjects_UP	NA	1578	459786
 bsdb:36303234/11/2_Polycystic-ovary-syndrome:PCOS-LB-(Polycystic-ovary-syndrome---Normal-Body-mass-index)-patients_vs_Healthy-LB-(Normal-Body-mass-index)-subjects_DOWN	NA	135858	100883	33042
+bsdb:36316382/1/1_Ethnic-group:Nyshi-Tribe_vs_Combination-of-Adi-Tribe-+-Apatani-Tribe_DOWN	NA	40214	74426	165179
+bsdb:36316382/2/1_Ethnic-group:Apatani-Tribe_vs_Combination-of-Adi-Tribe-+-Nyshi-Tribe_UP	NA	216816	39486
+bsdb:36316382/2/2_Ethnic-group:Apatani-Tribe_vs_Combination-of-Adi-Tribe-+-Nyshi-Tribe_DOWN	NA	817	425941	363265	1623	39778
+bsdb:36316382/3/1_Ethnic-group:Adi-Tribe_vs_Combination-of-Apatani-Tribe-+-Nyshi-Tribe_DOWN	NA	28116	820	1680	33043	1735	1265	1328
 bsdb:36338055/1/1_Polycystic-ovary-syndrome:Polycystic-ovary-syndrome-(PCOS)_vs_Healthy-individuals-(Control)_UP	NA	572511	201174	1654	1350	100883	286	3025755	644652
 bsdb:36338055/1/2_Polycystic-ovary-syndrome:Polycystic-ovary-syndrome-(PCOS)_vs_Healthy-individuals-(Control)_DOWN	NA	216851	283168	375288	577309	33024	841
 bsdb:36338055/2/1_Polycystic-ovary-syndrome:Polycystic-ovary-syndrome-(PCOS)_vs_Healthy-individuals-(Control)_UP	NA	85698	105841	1293573	469592	762212	1232442	1078090	1780377	1235798	84112	665943	910311	1352	1301100	1263010	471189	658656	1577896	823	563193	1479239	95619	438033	1660	382	1280	29348	212667	29347	1504822	1737424
@@ -4856,12 +4860,12 @@ bsdb:36995383/2/1_Parkinson's-disease:Untreated-patients-with-Parkinson-Disease-
 bsdb:36995383/3/1_Parkinson's-disease:Untreated-patients-with-Parkinson-Disease-(PD)_vs_Healthy-controls_UP	NA	872
 bsdb:36997838/1/1_Diet:Participants-after-the-AWE-diet---D21_vs_Participants-before-the-AWE-diet---D0_UP	NA	818	371601	255248
 bsdb:36997838/1/2_Diet:Participants-after-the-AWE-diet---D21_vs_Participants-before-the-AWE-diet---D0_DOWN	NA	1105171	147207	1115758	1583
-bsdb:37026303/1/1_Dry-eye-syndrome:Dry-Eye-Disease-patients_vs_Healthy-Controls_UP	NA	547	1350	1582879	236752	2701	724	47670	83614	1370	1817	543311	1632780	286	1060	84108	165695	34104	1883	2060	349
-bsdb:37026303/1/2_Dry-eye-syndrome:Dry-Eye-Disease-patients_vs_Healthy-Controls_DOWN	NA	12916	469	642	111142	1283313	1663	414371	1386	59735	1678	43668	1696	10	59732	1716	1912216	80865	82800	37914	1433999	59734	212791	2053	117563	366614	2745	53457	570	57493	57499	1578	1847725	32067	68	149698	407	33882	2010	1269	1763	44249	265	28100	985001	1085622	83618	1855416	32207	613	22	204447	40323
-bsdb:37026303/2/1_Dry-eye-syndrome:Sjogren's-patients-with-Dry-Eye-Disease_vs_Healthy-Controls_UP	NA	59735	547	1350	1582879	724	1578	47670	1370	543311	1632780	28100	286	1060	590	165695	1883	2060	77133
-bsdb:37026303/2/2_Dry-eye-syndrome:Sjogren's-patients-with-Dry-Eye-Disease_vs_Healthy-Controls_DOWN	NA	12916	111142	1283313	165779	1663	43668	1696	10	59732	1716	1912216	80865	82800	37914	1433999	212791	33986	1378	2053	117563	366614	2745	57499	1847725	32067	83614	68	149698	407	33882	1269	1763	265	985001	1085622	1855416	32207	613	22	204447	40323	662	46255	349
-bsdb:37026303/3/1_Dry-eye-syndrome:Non-Sjogren's-Syndrome-patients-with-Dry-Eye-Disease_vs_Healthy-Controls_UP	NA	59735	547	1350	1582879	236752	2701	47670	83614	1370	33882	1817	543311	28100	286	1060	257708	32207	613	165695	34104	1883	292632	2060	349	1366046
-bsdb:37026303/3/2_Dry-eye-syndrome:Non-Sjogren's-Syndrome-patients-with-Dry-Eye-Disease_vs_Healthy-Controls_DOWN	NA	12916	469	642	111142	1283313	150247	1386	1678	43668	1696	41275	10	59732	1716	1912216	80865	82800	37914	1433999	59734	212791	2053	366614	724	2745	53457	570	57493	57499	1847725	32067	68	451512	149698	407	1269	1763	44249	265	985001	1085622	83618	1855416	22	204447	84108	40323
+bsdb:37026303/1/1_Dry-eye-syndrome:Sjogren's-syndrome-(SS)-and-Non-Sjogren's-syndrome-(NSS)_vs_Healthy-Control-(HC)_UP	NA	547	1350	1582879	236752	2701	724	47670	83614	1370	1817	543311	1632780	286	1060	84108	165695	34104	1883	2060	349	59735	33882	838
+bsdb:37026303/1/2_Dry-eye-syndrome:Sjogren's-syndrome-(SS)-and-Non-Sjogren's-syndrome-(NSS)_vs_Healthy-Control-(HC)_DOWN	NA	12916	469	642	111142	1283313	1663	414371	1386	1678	43668	1696	10	59732	1716	1912216	80865	82800	37914	1433999	59734	212791	2053	117563	366614	2745	53457	570	57493	57499	1578	1847725	32067	68	451512	149698	407	1269	1763	44249	265	28100	985001	1085622	83618	1855416	32207	613	22	204447	40323
+bsdb:37026303/2/1_Dry-eye-syndrome:Sjogren's-syndrome-(SS)_vs_Healthy-Control-(HC)_UP	NA	59735	547	1350	1582879	724	1578	47670	1370	543311	1632780	28100	286	1060	590	165695	1883	2060	77133	33882
+bsdb:37026303/2/2_Dry-eye-syndrome:Sjogren's-syndrome-(SS)_vs_Healthy-Control-(HC)_DOWN	NA	12916	111142	1283313	165779	1663	43668	1696	10	59732	1716	1912216	80865	82800	37914	1433999	212791	33986	1378	2053	117563	366614	2745	57499	1847725	32067	83614	68	149698	407	1269	1763	265	985001	1085622	1855416	32207	613	22	204447	40323	662	46255	349
+bsdb:37026303/3/1_Dry-eye-syndrome:Non-Sjogren's-syndrome-(NSS)_vs_Healthy-Control-(HC)_UP	NA	59735	547	1350	1582879	236752	2701	47670	83614	1370	33882	1817	543311	28100	286	1060	1366046	32207	34104	1883	292632	2060	349	1632780	125216	84108
+bsdb:37026303/3/2_Dry-eye-syndrome:Non-Sjogren's-syndrome-(NSS)_vs_Healthy-Control-(HC)_DOWN	NA	12916	469	642	111142	1283313	150247	414371	1386	1678	43668	1696	41275	10	59732	1912216	80865	82800	37914	1433999	59734	212791	2053	366614	724	2745	53457	570	57493	57499	1847725	32067	68	451512	149698	407	1269	1763	44249	265	985001	1085622	83618	1855416	613	22	204447	165695	40323	1716
 bsdb:37032359/1/2_Antimicrobial-agent,Amoxicillin:mouse--after-antibiotic-treatment_vs_mouse-before-antibiotic-treatment_UP	NA	5052	5498	83174
 bsdb:37032359/2/2_Antimicrobial-agent,Amoxicillin:Mouse-after-antibiotic-treatment_vs_Mouse-before-antibiotic--treatment_UP	NA	543	1940338	1350
 bsdb:37033494/1/1_Chronic-kidney-disease:End-stage-renal-disease-(ESRD)_vs_Chronic-kidney-disease-(CKD)_UP	NA	1716	1937008	1350	1573534	28231	209	1926677	1279
@@ -6030,6 +6034,16 @@ bsdb:38684759/7/1_Gestational-diabetes:GDM_Malay_vs_Control_Malay-(non-GDM)_UP	N
 bsdb:38684759/7/2_Gestational-diabetes:GDM_Malay_vs_Control_Malay-(non-GDM)_DOWN	NA	283	40323	1253	239759	222	872	904	397864	35832	1506577	191303	1485	216851	577310	39496	2729669	1940338	1348911	29465	877420	375288	1283313	39948	724	13687	1234	570	1501226	1937008	374	946234	1578	838	1766253	40544	1522	830	1432051	286	547	28050	1330545	574697	544	33024	1386	1506553	1263	239934	158846	906	816
 bsdb:38684759/8/1_Gestational-diabetes:GDM_Indian_vs_Control_Indian-(non-GDM)_UP	NA	2039302	1407607	1301	572511	158846	1451755	841	102106	39488	1769710	1505657	33039	1263	239759	1678	816
 bsdb:38684759/8/2_Gestational-diabetes:GDM_Indian_vs_Control_Indian-(non-GDM)_DOWN	NA	39948	1578	375288	662	877420	1937008	216851	209	1883	838	33024	265975	28048	29465	1283313	570	158846	33039	239759	816
+bsdb:38709933/1/1_Body-mass-index:Breast-cancer-patients-with-body-mass-index-(BMI)->-24_vs_Breast-cancer-patients-with-body-mass-index-(BMI)-≤-24_UP	NA	872	204441
+bsdb:38709933/1/2_Body-mass-index:Breast-cancer-patients-with-body-mass-index-(BMI)->-24_vs_Breast-cancer-patients-with-body-mass-index-(BMI)-≤-24_DOWN	NA	2005355	1378	123375
+bsdb:38709933/2/1_Body-mass-index:Breast-cancer-patients-with-body-mass-index-(BMI)->-24_vs_Breast-cancer-patients-with-body-mass-index-(BMI)-≤-24_UP	NA	872
+bsdb:38709933/2/2_Body-mass-index:Breast-cancer-patients-with-body-mass-index-(BMI)->-24_vs_Breast-cancer-patients-with-body-mass-index-(BMI)-≤-24_DOWN	NA	2005355
+bsdb:38709933/3/1_High-fat-diet:Mice-fed-with-High-Fat-Diet-(HFD)_vs_Mice-fed-with-Normal-Fat-Diet-(NFD)_UP	NA	572511	872	1508657	216572
+bsdb:38709933/3/2_High-fat-diet:Mice-fed-with-High-Fat-Diet-(HFD)_vs_Mice-fed-with-Normal-Fat-Diet-(NFD)_DOWN	NA	1283313	2005473
+bsdb:38709933/4/1_Tumor-size:Ki-67-in-breast-cancer-patients-with-BMI->-24_vs_Ki-67-in-breast-cancer-patients-with-BMI-≤-24_UP	NA	872
+bsdb:38709933/5/1_Tumor-size:Tumor-size-in-breast-cancer-patients-with-BMI->-24_vs_Tumor-size-in-breast-cancer-patients-with-BMI-≤-24_UP	NA	872
+bsdb:38709933/6/1_Obesity:Obese-donors-derived-fecal-microbiota-transplantation-(FMT)-mice_vs_Lean-donors-derived-fecal-microbiota-transplantation-(FMT)-mice_UP	NA	1578	872
+bsdb:38709933/6/2_Obesity:Obese-donors-derived-fecal-microbiota-transplantation-(FMT)-mice_vs_Lean-donors-derived-fecal-microbiota-transplantation-(FMT)-mice_DOWN	NA	1980681	1506553	1506577
 bsdb:38710815/1/1_Smoking-behaviour-measurement:Cigarettes-users-(CG-)_vs_Non-tobacco-users-(NU)_UP	NA	32067
 bsdb:38710815/1/2_Smoking-behaviour-measurement:Cigarettes-users-(CG-)_vs_Non-tobacco-users-(NU)_DOWN	NA	1654	117563	482	265975	838	29465
 bsdb:38710815/2/1_Smoking-behaviour-measurement:Cigarettes-users-(CG-)_vs_Smokeless-tobacco-users-(ST)_UP	NA	32067
@@ -6293,6 +6307,30 @@ bsdb:39148678/1/1_Periodontitis:Periodontitis-+-Alcohol-group-(PA-group)_vs_Peri
 bsdb:39148678/1/2_Periodontitis:Periodontitis-+-Alcohol-group-(PA-group)_vs_Periodontitis-group-(P-group)_DOWN	NA	724	41275	76892	46352	83618	28453	392733	1029631	186650	312063	1011	1184606	55968
 bsdb:39148678/2/1_Periodontitis:Periodontitis-+-Alcohol-group-(PA-group)_vs_Periodontitis-group-(P-group)_UP	NA	563835	1853229	186801	1912216	186803	3085636	186804	31957	85009	1737405
 bsdb:39148678/2/2_Periodontitis:Periodontitis-+-Alcohol-group-(PA-group)_vs_Periodontitis-group-(P-group)_DOWN	NA	469	724	468	28453	1309
+bsdb:39191760/1/1_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-4-weeks_vs_Autologous-transplant-(placebo)-group_UP	NA	909930	171552
+bsdb:39191760/1/2_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-4-weeks_vs_Autologous-transplant-(placebo)-group_DOWN	NA	815	186803
+bsdb:39191760/2/1_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-12-weeks_vs_Autologous-transplant-(placebo)-group_UP	NA	909930	171552	90964
+bsdb:39191760/2/2_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-12-weeks_vs_Autologous-transplant-(placebo)-group_DOWN	NA	815
+bsdb:39191760/3/1_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-52-weeks_vs_Autologous-transplant-(placebo)-group_UP	NA	909930	49546	171552
+bsdb:39191760/4/1_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-4-weeks_vs_Baseline-(BL)-group_UP	NA	49546	171552	171550	649777	1737404
+bsdb:39191760/4/2_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-4-weeks_vs_Baseline-(BL)-group_DOWN	NA	815	186828
+bsdb:39191760/5/1_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-8-weeks_vs_Baseline-(BL)-group_UP	NA	49546	1268	171552	171550	90964	649777	213468	1737404
+bsdb:39191760/5/2_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-8-weeks_vs_Baseline-(BL)-group_DOWN	NA	815
+bsdb:39191760/6/1_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-12-weeks_vs_Baseline-(BL)-group_UP	NA	49546	171552	90964	649777	1737404
+bsdb:39191760/6/2_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-12-weeks_vs_Baseline-(BL)-group_DOWN	NA	815	135621
+bsdb:39191760/7/1_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-26-weeks_vs_Baseline-(BL)-group_UP	NA	49546	171552	649777	1737404
+bsdb:39191760/7/2_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-26-weeks_vs_Baseline-(BL)-group_DOWN	NA	815
+bsdb:39191760/8/1_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-52-weeks_vs_Baseline-(BL)-group_UP	NA	49546	649777	1737404
+bsdb:39191760/8/2_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-52-weeks_vs_Baseline-(BL)-group_DOWN	NA	815
+bsdb:39191760/9/1_Irritable-bowel-syndrome:Autologous-transplant-(placebo)-group-at-4-weeks_vs_Baseline-(BL)-group_DOWN	NA	186828
+bsdb:39191760/10/1_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-4-weeks_vs_Baseline-(BL)-group_UP	NA	2585118	28117	1288121	328814	487174	544645	1907654	209880	2211183	2997294	328812	165179
+bsdb:39191760/10/2_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-4-weeks_vs_Baseline-(BL)-group_DOWN	NA	649756	817	84112	292800	1870991	33039	333367
+bsdb:39191760/11/1_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-12weeks_vs_Baseline-(BL)-group_UP	NA	328814	328812	165179
+bsdb:39191760/11/2_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-12weeks_vs_Baseline-(BL)-group_DOWN	NA	292800
+bsdb:39191760/12/1_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-26-weeks_vs_Baseline-(BL)-group_UP	NA	28117	1288121	328814	209880	165179
+bsdb:39191760/12/2_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-26-weeks_vs_Baseline-(BL)-group_DOWN	NA	84112	333367	292800	1870991
+bsdb:39191760/13/1_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-52-weeks_vs_Baseline-(BL)-group_UP	NA	28117	1288121	328814	1903262	544645	1735	328812	454155
+bsdb:39191760/13/2_Response-to-transplant:Fecal-microbiota-transplantation-(FMT)-from-universal-healthy-donor-group-at-52-weeks_vs_Baseline-(BL)-group_DOWN	NA	371601	84112	292800	333367
 bsdb:39192744/1/1_Parkinson's-disease:Parkinson’s-disease-patients-(PD-patients---Assymetric)_vs_Healthy-Controls-(Ctrl)_UP	NA	74426	1550024	40520
 bsdb:39192744/1/2_Parkinson's-disease:Parkinson’s-disease-patients-(PD-patients---Assymetric)_vs_Healthy-Controls-(Ctrl)_DOWN	NA	418240	360807	301301	853
 bsdb:39192744/2/1_Parkinson's-disease:Parkinson’s-disease-patients-(PD-patients---Symmetric)_vs_Healthy-Controls-(Ctrl)_UP	NA	40520	74426	626932	116085	1550024
@@ -7378,6 +7416,7 @@ bsdb:40792492/2/1_Delivery-method:Gut-microbiota-of-14-day-old-vaginally-deliver
 bsdb:40792492/2/2_Delivery-method:Gut-microbiota-of-14-day-old-vaginally-delivered-infants-(VIF2)._vs_Meconium-microbiota-of-vaginally-delivered-infants-(VIF1)._DOWN	NA	119060	1236	1224	48736	80840	329
 bsdb:40792492/3/1_Delivery-method:Gut-microbiota-of-14-day-old-infants-delivered-by-cesarean-section-(C1F2)._vs_Meconium-microbiota-of-cesarean-section-infants-(C1F1)._UP	NA	201174	31953	85004	1678	216816	39777	1689
 bsdb:40792492/3/2_Delivery-method:Gut-microbiota-of-14-day-old-infants-delivered-by-cesarean-section-(C1F2)._vs_Meconium-microbiota-of-cesarean-section-infants-(C1F1)._DOWN	NA	28211	119060	80840	186803	3085636	135621	286	48736	329	47878
+bsdb:40803752/3/1_Response-to-liver-transplant:Hyperabundant-in-hepatic-arterial-thrombosis-(HAT)-recipients_vs_Hypoabudant-in-hepatic-arterial-thrombosis-(HAT)-recipients_UP	NA	1654	186817	1385	1386	171549	200643	38501	186818	186801	31979	1485	1350	186328	526524	186806	186802	1730	216851	204475	119069	70774	186803	1357	149698	906	216572	162289	33024	171551	836	838	171552	1263	204457	46255	81852
 bsdb:40819064/1/1_Lifestyle-measurement:Burkina-Faso-Semi-urban-(BF-SU)_vs_Burkina-Faso-Rural-(BF-R)_UP	NA	4890
 bsdb:40819064/1/2_Lifestyle-measurement:Burkina-Faso-Semi-urban-(BF-SU)_vs_Burkina-Faso-Rural-(BF-R)_DOWN	NA	4911	5416	237557	4919	92860
 bsdb:40819064/2/2_Lifestyle-measurement:Burkina-Faso-Urban-(BF-U)_vs_Burkina-Faso-Rural-(BF-R)_DOWN	NA	36022	237557	1229076	749593	5506	4911	92860	4842	5416	5268
@@ -7472,6 +7511,8 @@ bsdb:40995227/1/2_Obesity:Overweight/obese_vs_Normal-weight_UP	NA	374	2721161	19
 bsdb:40995227/2/1_Obesity:Normal-weight_vs_Overweight/obese_UP	NA	84993	84992	47678	526524	4136	2005473	1918540	2530390	1073	1081	158876	158877	526525
 bsdb:40995227/3/1_Obesity:Obese_vs_Normal/Overweight_UP	NA	909932	84999	2974251	438033	558415	1970189	1522
 bsdb:40995227/4/1_Obesity:Overweight_vs_Normal/Obese_UP	NA	724	135625	712	171552	729	838	206351	481	482	1843489	31977	33053	249188
+bsdb:40999363/1/2_Response-to-transplant:Fecal-Microbiota-Transplant-(FMT)-Disease_vs_Fecal-Microbiota-Transplant-(FMT)-Normal_DOWN	NA	82373	283168	2729669	1506577
+bsdb:40999363/2/1_Coronary-artery-disease,Depressive-disorder:Diseased-model_vs_Control_UP	NA	1470353	1470349	189330	283168	375288	1279	3025755	59620
 bsdb:41000236/1/1_Periapical-Periodontitis:Trauma_vs_Caries_UP	NA	29547
 bsdb:41000236/1/2_Periapical-Periodontitis:Trauma_vs_Caries_DOWN	NA	44259	29374	265975	838	28135
 bsdb:41000236/2/1_Periapical-Periodontitis:Trauma_vs_Caries_UP	NA	72294	213849	29547	3031852
@@ -7547,6 +7588,7 @@ bsdb:41089933/1/1_Pneumonia:AIDS-group-(CD4+≥200cells/μl)_vs_HIV-group-(CD4+-
 bsdb:41089933/1/2_Pneumonia:AIDS-group-(CD4+≥200cells/μl)_vs_HIV-group-(CD4+-<200cells/μl)_DOWN	NA	200795	1912216	558415	31957	48736	295577
 bsdb:41118383/1/1_Clonorchiasis:Clonorchis-sinensis-infected-alcoholic-cirrhosis-patients-(Cs)_vs_Non-infected-alcoholic-cirrhosis-patients-(Non)_UP	NA	1239	102106	2810280	33042	84107	84999	84998	189330	158846	171552	841	1843491
 bsdb:41118383/1/2_Clonorchiasis:Clonorchis-sinensis-infected-alcoholic-cirrhosis-patients-(Cs)_vs_Non-infected-alcoholic-cirrhosis-patients-(Non)_DOWN	NA	57723	91347	543	1236	724	1224	1940338
+bsdb:41193550/1/1_Open-angle-glaucoma:POAG---Primary-open-angle-glaucoma-(GG)_vs_Control-group-(CG)_UP	NA	416916	572511	1716	29393	1434006	32066	848	203682	508458	1847725	1243	83614	68287	475	32207	970
 bsdb:41194195/1/1_Environmental-history:Unexposed-Rio-Grande-Valley-(RGV)-Aedes-aegypti-lab-line-mosquitoes_vs_Unexposed-Galveston-Aedes-aegypti-lab-line-mosquitoes_UP	NA	469	222991	91914	191	171549	75654	55968	68287	16	568386	1839	528	84567	661182	20	48736	268408	1434702	34072	2735
 bsdb:41194195/1/2_Environmental-history:Unexposed-Rio-Grande-Valley-(RGV)-Aedes-aegypti-lab-line-mosquitoes_vs_Unexposed-Galveston-Aedes-aegypti-lab-line-mosquitoes_DOWN	NA	239934	239759	41275	82976	563835	544	543	237	579	186803	1578	423349	1763	165696	265	160674	1356488	191303
 bsdb:41194195/2/1_Exposure:Exposed-Rio-Grande-Valley-(RGV)-Aedes-aegypti-lab-line-mosquitoes_vs_Exposed-Galveston-Aedes-aegypti-lab-line-mosquitoes_UP	NA	661182	1434702	222991	191	68287	239934	1578	171549	191303	160674	544	543	186803	91914	2735	82976	237	239759	41275	265	1356488	579	423349	75654	34072	55968	16
@@ -7607,6 +7649,11 @@ bsdb:41360922/6/2_Testosterone-measurement:High-Testosterone-(T)_vs_Low-Testoste
 bsdb:41470852/1/1_Postnatal-growth-retardation:Poor-growth-(PG)_vs_Normal-growth-(N)_DOWN	NA	1279
 bsdb:41470852/2/1_Postnatal-growth-retardation:Very-Poor-growth-(PG)_vs_Normal-growth-(N)_UP	NA	1678	1485	1301	29465
 bsdb:41470852/2/2_Postnatal-growth-retardation:Very-Poor-growth-(PG)_vs_Normal-growth-(N)_DOWN	NA	909928
+bsdb:41649265/1/1_Bronchopulmonary-dysplasia:Bronchopulmonary-dysplasia-1-(BPD1)_vs_Non-Bronchopulmonary-dysplasia-1(NBPD1)_UP	NA	28211	41275	76892	204458	135621	72274	286	3120442
+bsdb:41649265/3/1_Spontaneous-preterm-birth:Middle-preterm-(S2)_vs_Early-preterm-&-Late-preterm-(S1-&-S3)_UP	NA	239759
+bsdb:41649265/4/1_Spontaneous-preterm-birth:Late-preterm-(S3)_vs_Early-preterm-&-Middle-preterm-(S1-&-S2)_UP	NA	80864
+bsdb:41649265/5/1_Carbohydrate-metabolic-process:Positive-correlation-with-D-xylose_vs_Negative-correlation-with-D-xylose_UP	NA	29465
+bsdb:41649265/6/1_Polysaccharide:Positive-correlation-with-Lewisᵞ-tetrasaccharide_vs_Negative-correlation-with-Lewisᵞ-tetrasaccharide_DOWN	NA	1301
 bsdb:41773858/1/1_Tuberculosis:Tuberculosis_vs_Control_UP	NA	1283313	671218	419014	419015	187326	1763	1773	836	838	28132	189723	60133	1301	906	28135
 bsdb:41773858/2/1_COVID-19:COVID-19_vs_Control_UP	NA	419014	419015
 bsdb:41773858/2/2_COVID-19:COVID-19_vs_Control_DOWN	NA	1750	1107316	1501332	2124
