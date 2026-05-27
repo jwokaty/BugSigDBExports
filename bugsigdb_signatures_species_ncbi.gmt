@@ -1,4 +1,4 @@
-# BugSigDB 2026-05-26_21:33_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2026-05-27_01:13_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:83/1/1_Obesity:before-surgery_vs_after-surgery_UP	NA	40214	105841	159	410072	853	833	860	1579	173	1598	1768	53461	300	1282	500	160	29348
 bsdb:83/1/2_Obesity:before-surgery_vs_after-surgery_DOWN	NA	69218	28901	621	39778	29466
 bsdb:817/1/1_Granulomatosis-with-Polyangiitis:Kidneys-with-calcification_vs_Healthy/Healthy-with-no-visible-granuloma_UP	NA	2578121
@@ -3342,6 +3342,8 @@ bsdb:40792492/2/1_Delivery-method:Gut-microbiota-of-14-day-old-vaginally-deliver
 bsdb:40792492/2/2_Delivery-method:Gut-microbiota-of-14-day-old-vaginally-delivered-infants-(VIF2)._vs_Meconium-microbiota-of-vaginally-delivered-infants-(VIF1)._DOWN	NA	329
 bsdb:40792492/3/1_Delivery-method:Gut-microbiota-of-14-day-old-infants-delivered-by-cesarean-section-(C1F2)._vs_Meconium-microbiota-of-cesarean-section-infants-(C1F1)._UP	NA	216816	39777	1689
 bsdb:40792492/3/2_Delivery-method:Gut-microbiota-of-14-day-old-infants-delivered-by-cesarean-section-(C1F2)._vs_Meconium-microbiota-of-cesarean-section-infants-(C1F1)._DOWN	NA	329	47878
+bsdb:40803752/5/1_Response-to-liver-transplant:Increased-Acute-Rejection-(AR)-correlation-levels_vs_Decreased-Acute-Rejection-(AR)-correlation-levels_UP	NA	671278	368811	1402	2751	57171	390842	288426	1366	190721	252130	47951
+bsdb:40803752/8/2_Response-to-liver-transplant:Increased-biliary-tract-complications-(BC)-correlation-levels_vs_Decreased-biliary-tract-complications-(BC)-correlation-levels_DOWN	NA	1402	2751	390842	1335	252130	47951	1366	1904862	461393	297	43769
 bsdb:40819064/1/2_Lifestyle-measurement:Burkina-Faso-Semi-urban-(BF-SU)_vs_Burkina-Faso-Rural-(BF-R)_DOWN	NA	4911	5416
 bsdb:40819064/2/2_Lifestyle-measurement:Burkina-Faso-Urban-(BF-U)_vs_Burkina-Faso-Rural-(BF-R)_DOWN	NA	36022	1229076	749593	4911	5416
 bsdb:40819064/4/1_Lifestyle-measurement:Burkina-Faso-Rural-(BF-R)_vs_Italian-Urban-(IT-U)_UP	NA	5059	41959	5482	36022	1229076	749593	4911	76775	5416

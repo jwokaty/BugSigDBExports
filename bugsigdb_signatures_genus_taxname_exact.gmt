@@ -1,4 +1,4 @@
-# BugSigDB 2026-05-26_21:33_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2026-05-27_01:13_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:83/1/1_Obesity:before-surgery_vs_after-surgery_UP	NA	Anaerostipes	Coprococcus	Faecalibacterium	Helicobacter	Dictyostelium	Epidinium
 bsdb:83/1/2_Obesity:before-surgery_vs_after-surgery_DOWN	NA	Citrobacter	Enterobacter	Salmonella	Veillonella	Neurospora
 bsdb:817/1/2_Granulomatosis-with-Polyangiitis:Kidneys-with-calcification_vs_Healthy/Healthy-with-no-visible-granuloma_DOWN	NA	Anoxybacillus	Dermacoccus	Micrococcus	Paracoccus
@@ -5358,7 +5358,11 @@ bsdb:40792492/2/2_Delivery-method:Gut-microbiota-of-14-day-old-vaginally-deliver
 bsdb:40792492/3/1_Delivery-method:Gut-microbiota-of-14-day-old-infants-delivered-by-cesarean-section-(C1F2)._vs_Meconium-microbiota-of-cesarean-section-infants-(C1F1)._UP	NA	Bifidobacterium
 bsdb:40792492/3/2_Delivery-method:Gut-microbiota-of-14-day-old-infants-delivered-by-cesarean-section-(C1F2)._vs_Meconium-microbiota-of-cesarean-section-infants-(C1F1)._DOWN	NA	Pseudomonas	Ralstonia
 bsdb:40803752/1/1_Response-to-liver-transplant:Hyperabundant-in-Non-survivor-recipients_vs_Hypoabundant-in-Non-survivor-recipients_UP	NA	Actinobacillus	Bacillus	Cloacibacterium	Gemmobacter	Massilia	Megasphaera	Porphyrobacter	Prevotella	Rubrivivax	Sphingobium	Tepidimonas	Weissella
+bsdb:40803752/1/2_Response-to-liver-transplant:Hyperabundant-in-Non-survivor-recipients_vs_Hypoabundant-in-Non-survivor-recipients_DOWN	NA	Hyphomicrobium	Leptotrichia	Modestobacter	Neisseria	Sphingobacterium	Uruburuella	Carnobacterium
+bsdb:40803752/2/1_Response-to-liver-transplant:Hyperabundant-in-Acute-Rejection-(AR)-recipients_vs_Hypoabundant-in-Acute-Rejection-(AR)-recipients_UP	NA	Alishewanella	Carnobacterium	Cellulomonas	Citrobacter	Curvibacter	Gemella	Rheinheimera	Rickettsiella	Uruburuella	Weissella
 bsdb:40803752/3/1_Response-to-liver-transplant:Hyperabundant-in-hepatic-arterial-thrombosis-(HAT)-recipients_vs_Hypoabudant-in-hepatic-arterial-thrombosis-(HAT)-recipients_UP	NA	Actinomyces	Bacillus	Blastococcus	Clostridium	Enterococcus	Eubacterium	Faecalibacterium	Gemmiger	Hydrogenophilus	Lactococcus	Massilia	Megasphaera	Peptoniphilus	Phascolarctobacterium	Porphyromonas	Prevotella	Ruminococcus	Weissella
+bsdb:40803752/5/1_Response-to-liver-transplant:Increased-Acute-Rejection-(AR)-correlation-levels_vs_Decreased-Acute-Rejection-(AR)-correlation-levels_UP	NA	Idiomarina	Weissella
+bsdb:40803752/8/2_Response-to-liver-transplant:Increased-biliary-tract-complications-(BC)-correlation-levels_vs_Decreased-biliary-tract-complications-(BC)-correlation-levels_DOWN	NA	Idiomarina	Modestobacter
 bsdb:40819064/1/2_Lifestyle-measurement:Burkina-Faso-Semi-urban-(BF-SU)_vs_Burkina-Faso-Rural-(BF-R)_DOWN	NA	Davidiella	Pichia
 bsdb:40819064/2/2_Lifestyle-measurement:Burkina-Faso-Urban-(BF-U)_vs_Burkina-Faso-Rural-(BF-R)_DOWN	NA	Davidiella	Fusarium	Rhizopus
 bsdb:40819064/3/1_Lifestyle-measurement:Burkina-Faso-Urban-(BF-U)_vs_Burkina-Faso-Semi-Urban-(BF-SU)_UP	NA	Pichia
@@ -5470,6 +5474,8 @@ bsdb:41089933/1/2_Pneumonia:AIDS-group-(CD4+≥200cells/μl)_vs_HIV-group-(CD4+-
 bsdb:41118383/1/1_Clonorchiasis:Clonorchis-sinensis-infected-alcoholic-cirrhosis-patients-(Cs)_vs_Non-infected-alcoholic-cirrhosis-patients-(Non)_UP	NA	Collinsella	Coprococcus	Dorea	Megamonas	Roseburia
 bsdb:41118383/1/2_Clonorchiasis:Clonorchis-sinensis-infected-alcoholic-cirrhosis-patients-(Cs)_vs_Non-infected-alcoholic-cirrhosis-patients-(Non)_DOWN	NA	Haemophilus
 bsdb:41193550/1/1_Open-angle-glaucoma:POAG---Primary-open-angle-glaucoma-(GG)_vs_Control-group-(CG)_UP	NA	Aggregatibacter	Blautia	Corynebacterium	Dolosigranulum	Fretibacterium	Fusobacterium	Lawsonella	Leuconostoc	Luteimonas	Mesorhizobium	Moraxella	Rothia	Selenomonas
+bsdb:41193550/2/1_Open-angle-glaucoma:Preservative_vs_No-Preservative_UP	NA	Aggregatibacter	Blautia	Finegoldia	Fusobacterium	Gemella	Granulicatella	Leuconostoc	Paracoccus	Selenomonas	Veillonella	Staphylococcus
+bsdb:41193550/2/2_Open-angle-glaucoma:Preservative_vs_No-Preservative_DOWN	NA	Corynebacterium	Gardnerella	Moraxella
 bsdb:41194195/1/1_Environmental-history:Unexposed-Rio-Grande-Valley-(RGV)-Aedes-aegypti-lab-line-mosquitoes_vs_Unexposed-Galveston-Aedes-aegypti-lab-line-mosquitoes_UP	NA	Acinetobacter	Alkanindiges	Asaia	Azospirillum	Duganella	Leucobacter	Mesorhizobium	Methylophilus	Nocardioides	Ochrobactrum	Pedobacter	Perlucidibaca	Phenylobacterium	Ralstonia	Rhodovarius	Taibaiella	Variovorax	Verrucomicrobium
 bsdb:41194195/1/2_Environmental-history:Unexposed-Rio-Grande-Valley-(RGV)-Aedes-aegypti-lab-line-mosquitoes_vs_Unexposed-Galveston-Aedes-aegypti-lab-line-mosquitoes_DOWN	NA	Akkermansia	Alistipes	Brevundimonas	Buttiauxella	Citrobacter	Flavobacterium	Kluyvera	Lactobacillus	Mucilaginibacter	Mycobacterium	Novosphingobium	Paracoccus	Klebsiella	Rosenbergiella	Turicibacter
 bsdb:41194195/2/1_Exposure:Exposed-Rio-Grande-Valley-(RGV)-Aedes-aegypti-lab-line-mosquitoes_vs_Exposed-Galveston-Aedes-aegypti-lab-line-mosquitoes_UP	NA	Perlucidibaca	Taibaiella	Alkanindiges	Azospirillum	Mesorhizobium	Akkermansia	Lactobacillus	Turicibacter	Klebsiella	Citrobacter	Asaia	Verrucomicrobium	Buttiauxella	Flavobacterium	Alistipes	Brevundimonas	Paracoccus	Rosenbergiella	Kluyvera	Mucilaginibacter	Duganella	Variovorax	Leucobacter	Methylophilus
@@ -5504,6 +5510,7 @@ bsdb:41470852/1/1_Postnatal-growth-retardation:Poor-growth-(PG)_vs_Normal-growth
 bsdb:41470852/2/1_Postnatal-growth-retardation:Very-Poor-growth-(PG)_vs_Normal-growth-(N)_UP	NA	Bifidobacterium	Clostridium	Streptococcus	Veillonella
 bsdb:41470852/2/2_Postnatal-growth-retardation:Very-Poor-growth-(PG)_vs_Normal-growth-(N)_DOWN	NA	Negativicoccus
 bsdb:41649265/1/1_Bronchopulmonary-dysplasia:Bronchopulmonary-dysplasia-1-(BPD1)_vs_Non-Bronchopulmonary-dysplasia-1(NBPD1)_UP	NA	Brevundimonas	Pseudomonas
+bsdb:41649265/2/1_Spontaneous-preterm-birth:Early-preterm-(S1)_vs_Middle-preterm-&-Late-preterm-(S2-&-S3)_UP	NA	Mycobacterium	Bacteroides	Mucispirillum
 bsdb:41649265/3/1_Spontaneous-preterm-birth:Middle-preterm-(S2)_vs_Early-preterm-&-Late-preterm-(S1-&-S3)_UP	NA	Alistipes
 bsdb:41649265/5/1_Carbohydrate-metabolic-process:Positive-correlation-with-D-xylose_vs_Negative-correlation-with-D-xylose_UP	NA	Veillonella
 bsdb:41649265/6/1_Polysaccharide:Positive-correlation-with-Lewisᵞ-tetrasaccharide_vs_Negative-correlation-with-Lewisᵞ-tetrasaccharide_DOWN	NA	Streptococcus

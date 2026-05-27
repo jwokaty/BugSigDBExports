@@ -1,4 +1,4 @@
-# BugSigDB 2026-05-26_21:33_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2026-05-27_01:13_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:83/1/1_Obesity:before-surgery_vs_after-surgery_UP	NA	40214	207244	105841	159	33042	410072	216851	853	833	860	209	1579	173	1598	1768	53461	300	1282	500	160	29348	5782	40637
 bsdb:83/1/2_Obesity:before-surgery_vs_after-surgery_DOWN	NA	544	547	69218	590	28901	621	29465	39778	29466	5140
 bsdb:817/1/1_Granulomatosis-with-Polyangiitis:Kidneys-with-calcification_vs_Healthy/Healthy-with-no-visible-granuloma_UP	NA	2578121	49546
@@ -7417,7 +7417,11 @@ bsdb:40792492/2/2_Delivery-method:Gut-microbiota-of-14-day-old-vaginally-deliver
 bsdb:40792492/3/1_Delivery-method:Gut-microbiota-of-14-day-old-infants-delivered-by-cesarean-section-(C1F2)._vs_Meconium-microbiota-of-cesarean-section-infants-(C1F1)._UP	NA	201174	31953	85004	1678	216816	39777	1689
 bsdb:40792492/3/2_Delivery-method:Gut-microbiota-of-14-day-old-infants-delivered-by-cesarean-section-(C1F2)._vs_Meconium-microbiota-of-cesarean-section-infants-(C1F1)._DOWN	NA	28211	119060	80840	186803	3085636	135621	286	48736	329	47878
 bsdb:40803752/1/1_Response-to-liver-transplant:Hyperabundant-in-Non-survivor-recipients_vs_Hypoabundant-in-Non-survivor-recipients_UP	NA	713	186817	1386	28216	80840	501783	81852	335929	204456	149698	906	75682	1111	838	171552	82115	28067	165695	137	136	203692	203691	114248	31977	46255
+bsdb:40803752/1/2_Response-to-liver-transplant:Hyperabundant-in-Non-survivor-recipients_vs_Hypoabundant-in-Non-survivor-recipients_DOWN	NA	81	32067	1129771	88138	482	481	206351	28453	299568	2747
+bsdb:40803752/2/1_Response-to-liver-transplant:Hyperabundant-in-Acute-Rejection-(AR)-recipients_vs_Hypoabundant-in-Acute-Rejection-(AR)-recipients_UP	NA	111142	72275	213481	45404	2747	76892	204458	1707	544	281915	1378	45401	203682	67575	59195	299568	46255
 bsdb:40803752/3/1_Response-to-liver-transplant:Hyperabundant-in-hepatic-arterial-thrombosis-(HAT)-recipients_vs_Hypoabudant-in-hepatic-arterial-thrombosis-(HAT)-recipients_UP	NA	1654	186817	1385	1386	171549	200643	38501	186818	186801	31979	1485	1350	186328	526524	186806	186802	1730	216851	204475	119069	70774	186803	1357	149698	906	216572	162289	33024	171551	836	838	171552	1263	204457	46255	81852
+bsdb:40803752/5/1_Response-to-liver-transplant:Increased-Acute-Rejection-(AR)-correlation-levels_vs_Decreased-Acute-Rejection-(AR)-correlation-levels_UP	NA	671278	368811	1402	2751	57171	135575	390842	288426	1366	190721	252130	47951	46255	766
+bsdb:40803752/8/2_Response-to-liver-transplant:Increased-biliary-tract-complications-(BC)-correlation-levels_vs_Decreased-biliary-tract-complications-(BC)-correlation-levels_DOWN	NA	1402	2751	390842	1335	252130	47951	1366	135575	1904862	461393	297	88138	43769
 bsdb:40819064/1/1_Lifestyle-measurement:Burkina-Faso-Semi-urban-(BF-SU)_vs_Burkina-Faso-Rural-(BF-R)_UP	NA	4890
 bsdb:40819064/1/2_Lifestyle-measurement:Burkina-Faso-Semi-urban-(BF-SU)_vs_Burkina-Faso-Rural-(BF-R)_DOWN	NA	4911	5416	237557	4919	92860
 bsdb:40819064/2/2_Lifestyle-measurement:Burkina-Faso-Urban-(BF-U)_vs_Burkina-Faso-Rural-(BF-R)_DOWN	NA	36022	237557	1229076	749593	5506	4911	92860	4842	5416	5268
@@ -7590,6 +7594,8 @@ bsdb:41089933/1/2_Pneumonia:AIDS-group-(CD4+≥200cells/μl)_vs_HIV-group-(CD4+-
 bsdb:41118383/1/1_Clonorchiasis:Clonorchis-sinensis-infected-alcoholic-cirrhosis-patients-(Cs)_vs_Non-infected-alcoholic-cirrhosis-patients-(Non)_UP	NA	1239	102106	2810280	33042	84107	84999	84998	189330	158846	171552	841	1843491
 bsdb:41118383/1/2_Clonorchiasis:Clonorchis-sinensis-infected-alcoholic-cirrhosis-patients-(Cs)_vs_Non-infected-alcoholic-cirrhosis-patients-(Non)_DOWN	NA	57723	91347	543	1236	724	1224	1940338
 bsdb:41193550/1/1_Open-angle-glaucoma:POAG---Primary-open-angle-glaucoma-(GG)_vs_Control-group-(CG)_UP	NA	416916	572511	1716	29393	1434006	32066	848	203682	508458	1847725	1243	83614	68287	475	32207	970
+bsdb:41193550/2/1_Open-angle-glaucoma:Preservative_vs_No-Preservative_UP	NA	416916	572511	150022	848	1378	117563	1243	265	970	29465	1279
+bsdb:41193550/2/2_Open-angle-glaucoma:Preservative_vs_No-Preservative_DOWN	NA	1716	2701	475
 bsdb:41194195/1/1_Environmental-history:Unexposed-Rio-Grande-Valley-(RGV)-Aedes-aegypti-lab-line-mosquitoes_vs_Unexposed-Galveston-Aedes-aegypti-lab-line-mosquitoes_UP	NA	469	222991	91914	191	171549	75654	55968	68287	16	568386	1839	528	84567	661182	20	48736	268408	1434702	34072	2735
 bsdb:41194195/1/2_Environmental-history:Unexposed-Rio-Grande-Valley-(RGV)-Aedes-aegypti-lab-line-mosquitoes_vs_Unexposed-Galveston-Aedes-aegypti-lab-line-mosquitoes_DOWN	NA	239934	239759	41275	82976	563835	544	543	237	579	186803	1578	423349	1763	165696	265	160674	1356488	191303
 bsdb:41194195/2/1_Exposure:Exposed-Rio-Grande-Valley-(RGV)-Aedes-aegypti-lab-line-mosquitoes_vs_Exposed-Galveston-Aedes-aegypti-lab-line-mosquitoes_UP	NA	661182	1434702	222991	191	68287	239934	1578	171549	191303	160674	544	543	186803	91914	2735	82976	237	239759	41275	265	1356488	579	423349	75654	34072	55968	16
@@ -7651,6 +7657,7 @@ bsdb:41470852/1/1_Postnatal-growth-retardation:Poor-growth-(PG)_vs_Normal-growth
 bsdb:41470852/2/1_Postnatal-growth-retardation:Very-Poor-growth-(PG)_vs_Normal-growth-(N)_UP	NA	1678	1485	1301	29465
 bsdb:41470852/2/2_Postnatal-growth-retardation:Very-Poor-growth-(PG)_vs_Normal-growth-(N)_DOWN	NA	909928
 bsdb:41649265/1/1_Bronchopulmonary-dysplasia:Bronchopulmonary-dysplasia-1-(BPD1)_vs_Non-Bronchopulmonary-dysplasia-1(NBPD1)_UP	NA	28211	41275	76892	204458	135621	72274	286	3120442
+bsdb:41649265/2/1_Spontaneous-preterm-birth:Early-preterm-(S1)_vs_Middle-preterm-&-Late-preterm-(S2-&-S3)_UP	NA	200930	68337	191393	1762	815	171552	2038695	191394	1763	816	248038
 bsdb:41649265/3/1_Spontaneous-preterm-birth:Middle-preterm-(S2)_vs_Early-preterm-&-Late-preterm-(S1-&-S3)_UP	NA	239759
 bsdb:41649265/4/1_Spontaneous-preterm-birth:Late-preterm-(S3)_vs_Early-preterm-&-Middle-preterm-(S1-&-S2)_UP	NA	80864
 bsdb:41649265/5/1_Carbohydrate-metabolic-process:Positive-correlation-with-D-xylose_vs_Negative-correlation-with-D-xylose_UP	NA	29465
