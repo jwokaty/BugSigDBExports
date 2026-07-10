@@ -1,4 +1,4 @@
-# BugSigDB 2026-07-09_11:52_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
+# BugSigDB 2026-07-10_06:35_UTC, License: Creative Commons Attribution 4.0 International, URL: https://bugsigdb.org
 bsdb:39/1/2_Body-odor-measurement:youth-underarm-after-exercise_vs_youth-underarm-before_DOWN	NA	Paracoccus
 bsdb:39/2/1_Body-odor-measurement:youth-Neck-before_vs_after-excercise_DOWN	NA	Acinetobacter
 bsdb:39/3/1_Body-odor-measurement:Children-underarm-before_vs_after-excercise_DOWN	NA	Paracoccus
@@ -5082,6 +5082,7 @@ bsdb:36405958/3/2_Response-to-oxcarbazepine:post-treatment-(focal-epilepsy)_vs_p
 bsdb:36405958/4/1_Epilepsy:pre-treatment-(focal-epilepsy)_vs_healthy-control-(HC)_UP	NA	Faecalibacterium	Parabacteroides	Megamonas	Streptococcus	Romboutsia	Collinsella
 bsdb:36405958/5/1_Epilepsy:post-treatment-(focal-epilepsy)_vs_healthy-control-(HC)_UP	NA	Parabacteroides	Anaerostipes	Oscillibacter	Megamonas
 bsdb:36405958/6/1_Response-to-oxcarbazepine:post-treatment-(focal-epilepsy)_vs_pre-treatment-(focal-epilepsy)_UP	NA	Blautia	Megamonas	Oscillibacter	Streptococcus	Romboutsia	Collinsella	Anaerostipes
+bsdb:36417462/1/1_Hepatic-steatosis,Fatty-liver-disease:Participants-with-Metabolic-dysfunction-associated-fatty-liver-disease-(MAFLD)_vs_Healthy-Participants-without-fatty-liver-disease_DOWN	NA	Alistipes	Blautia	Flavonifractor	Parabacteroides	Succinivibrio	Oscillibacter	Eggerthella
 bsdb:36442206/1/1_Parkinson's-disease:Parkinson's-Disease-Patients_vs_Healthy-controls._UP	NA	Akkermansia	Enterococcus	Hungatella
 bsdb:36453905/1/1_Colorectal-cancer:Colorectal-Cancer-Patients_vs_Advanced-Adenoma-Patients_UP	NA	Acidihalobacter	Kushneria	Lelliottia	Parvimonas
 bsdb:36453905/1/2_Colorectal-cancer:Colorectal-Cancer-Patients_vs_Advanced-Adenoma-Patients_DOWN	NA	Blautia	Clostridium	Ruminococcus	Roseburia	Fusicatenibacter	Haemophilus	Lachnospira	Romboutsia	Dorea	Oscillibacter	Negativibacillus	Eubacterium	Angelakisella	Christensenella	Faecalicatena	Merdimonas	Intestinimonas	Massilioclostridium	Anaerostipes	Merdibacter	Holdemania	Megasphaera	Acetivibrio	Levyella	Lachnoanaerobaculum	Allofournierella	Anaerotruncus	Turicibacter	Robinsoniella	Stomatobaculum
@@ -7511,8 +7512,8 @@ bsdb:39644491/1/1_Idiopathic-pulmonary-fibrosis:Idiopathic-pulmonary-fibrosis-pa
 bsdb:39644491/1/2_Idiopathic-pulmonary-fibrosis:Idiopathic-pulmonary-fibrosis-patients-(IPF)_vs_Healthy-controls_DOWN	NA	Dorea	Fusicatenibacter
 bsdb:39656003/2/1_Psoriasis:Psoriasis-patients_vs_Healthy-adult-donors_UP	NA	Acidaminococcus	Holdemanella	Megasphaera
 bsdb:39656003/2/2_Psoriasis:Psoriasis-patients_vs_Healthy-adult-donors_DOWN	NA	Dialister
-bsdb:39682194/1/1_Colorectal-cancer:Tumor-mucosal-tissue_vs_Non--tumor-adjacent-mucosal-tissue_UP	NA	Fusobacterium	Leptotrichia	Streptococcus
-bsdb:39682194/1/2_Colorectal-cancer:Tumor-mucosal-tissue_vs_Non--tumor-adjacent-mucosal-tissue_DOWN	NA	Actinomyces	Bacteroides	Corynebacterium
+bsdb:39682194/1/1_Colorectal-cancer:Tumor-mucosal-tissue_vs_Non-tumor-adjacent-mucosal-tissue_UP	NA	Fusobacterium	Leptotrichia	Streptococcus
+bsdb:39682194/1/2_Colorectal-cancer:Tumor-mucosal-tissue_vs_Non-tumor-adjacent-mucosal-tissue_DOWN	NA	Actinomyces	Bacteroides	Corynebacterium
 bsdb:39682194/2/1_Colon-carcinoma:Colon-tumor-tissue_vs_Rectum-tumor-tissue_UP	NA	Prevotella	Roseburia	Granulicatella
 bsdb:39682194/2/2_Colon-carcinoma:Colon-tumor-tissue_vs_Rectum-tumor-tissue_DOWN	NA	Alistipes
 bsdb:39682194/3/1_Colon-carcinoma:Colon-tumor-tissue_vs_Sigmoid-colon-tumor-tissue_UP	NA	Roseburia	Prevotella	Granulicatella
@@ -7786,14 +7787,12 @@ bsdb:39938307/17/1_Environmental-factor:Pre-control_vs_Pre-case_DOWN	NA	Mycospha
 bsdb:39938307/18/1_Environmental-factor:Post-case_vs_Pre-case_UP	NA	Arthrobacter	Caulobacter	Erysipelothrix	Georgenia	Haliangium	Hyphomicrobium	Methylophaga	Thermus
 bsdb:39938307/21/1_Environmental-factor:Post-case_vs_Pre-case_DOWN	NA	Vermiconidia
 bsdb:39938307/24/1_Environmental-factor:Post-case_vs_Pre-case_UP	NA	Apodus	Lentinellus
-bsdb:39939954/1/1_Exercise:Day-9-–-end-of-retreat-(T3)_vs_Day-0-–-baseline-(T1)_UP	NA	Adlercreutzia	Agathobacter	Akkermansia	Alistipes	Anaerostipes	Bacteroides	Bifidobacterium	Blautia	Catenibacterium	Clostridium	Collinsella	Coprococcus	Dorea	Enterococcus	Faecalibacterium	Fusicatenibacter	Holdemanella	Intestinibacter	Leuconostoc	Ligilactobacillus	Parabacteroides	Romboutsia	Roseburia	Ruminococcus	Slackia	Streptococcus	Subdoligranulum
-bsdb:39939954/1/2_Exercise:Day-9-–-end-of-retreat-(T3)_vs_Day-0-–-baseline-(T1)_DOWN	NA	Monoglobus	Pseudomonas	Turicibacter	Butyricicoccus	Lachnoclostridium	Marvinbryantia	Lachnospira	Flavonifractor	Gordonibacter	Roseburia	Parabacteroides	Alistipes	Ruminococcus	Adlercreutzia	Catenibacterium	Slackia	Enterococcus	Agathobacter	Bacteroides	Coprococcus	Romboutsia	Dorea	Akkermansia	Bifidobacterium	Streptococcus	Faecalibacterium	Fusicatenibacter	Anaerostipes	Collinsella	Blautia	Subdoligranulum
+bsdb:39939954/1/1_Exercise:Day-9-–-end-of-retreat-(T3)_vs_Day-0-–-baseline-(T1)_UP	NA	Adlercreutzia	Agathobacter	Akkermansia	Alistipes	Anaerostipes	Bacteroides	Bifidobacterium	Blautia	Clostridium	Catenibacterium	Collinsella	Coprococcus	Dorea	Enterococcus	Faecalibacterium	Fusicatenibacter	Holdemanella	Intestinibacter	Leuconostoc	Ligilactobacillus	Parabacteroides	Romboutsia	Roseburia	Ruminococcus	Slackia	Streptococcus	Subdoligranulum
+bsdb:39939954/1/2_Exercise:Day-9-–-end-of-retreat-(T3)_vs_Day-0-–-baseline-(T1)_DOWN	NA	Adlercreutzia	Agathobacter	Akkermansia	Alistipes	Anaerostipes	Bacteroides	Bifidobacterium	Blautia	Butyricicoccus	Catenibacterium	Collinsella	Coprococcus	Dorea	Enterococcus	Faecalibacterium	Flavonifractor	Fusicatenibacter	Gordonibacter	Lachnoclostridium	Lachnospira	Marvinbryantia	Monoglobus	Parabacteroides	Pseudomonas	Romboutsia	Roseburia	Ruminococcus	Slackia	Streptococcus	Subdoligranulum	Thomasclavelia	Turicibacter
 bsdb:39939954/2/1_Exercise:Higher-Arhatic-level-at-T1_vs_Lower-Arhatic-level-at-T1_UP	NA	Alistipes	Anaerostipes	Bacteroides	Barnesiella	Bifidobacterium	Blautia	Clostridium	Coprobacter	Coprococcus	Dorea	Enterococcus	Faecalibacterium	Fusicatenibacter	Klebsiella	Lachnospira	Lactococcus	Romboutsia	Roseburia	Ruminococcus	Slackia	Streptococcus	Subdoligranulum	Terrisporobacter	Turicibacter
 bsdb:39939954/2/2_Exercise:Higher-Arhatic-level-at-T1_vs_Lower-Arhatic-level-at-T1_DOWN	NA	Adlercreutzia	Anaerostipes	Bacteroides	Bifidobacterium	Blautia	Clostridium	Dorea	Faecalibacterium	Romboutsia	Ruminococcus	Subdoligranulum	Turicibacter
-bsdb:39939954/3/1_Exercise:Higher-Arhatic-level-at-T3_vs_Lower-Arhatic-level-at-T3_UP	NA	Adlercreutzia	Agathobacter	Akkermansia	Alistipes	Anaerostipes	Bacteroides	Barnesiella	Blautia	Butyricicoccus	Collinsella	Coprococcus	Dorea	Faecalibacterium	Fusicatenibacter	Lactococcus	Leuconostoc	Marvinbryantia	Monoglobus	Parasutterella	Romboutsia	Ruminococcus	Streptococcus	Subdoligranulum	Tyzzerella
-bsdb:39939954/3/2_Exercise:Higher-Arhatic-level-at-T3_vs_Lower-Arhatic-level-at-T3_DOWN	NA	Bacteroides	Subdoligranulum	Enterococcus	Bifidobacterium	Faecalibacterium	Coprococcus	Ligilactobacillus	Anaerostipes	Dorea	Streptococcus	Collinsella	Romboutsia	Blautia
-bsdb:39939954/4/1_Exercise:Day-9-–-end-of-retreat-(T3)_vs_Day-0-–-baseline-(T1)_UP	NA	Abiotrophia	Akkermansia	Bifidobacterium	Collinsella	Corynebacterium	Dorea	Faecalibacterium	Gemella	Granulicatella	Haemophilus	Ligilactobacillus	Neisseria	Parvimonas	Peptostreptococcus	Porphyromonas	Prevotella	Pseudomonas	Romboutsia	Rothia	Streptococcus	Subdoligranulum	Turicibacter
-bsdb:39939954/4/2_Exercise:Day-9-–-end-of-retreat-(T3)_vs_Day-0-–-baseline-(T1)_DOWN	NA	Agathobacter	Alistipes	Anaerostipes	Bacteroides	Blautia	Clostridium	Coprococcus	Enterococcus	Ruminococcus	Actinomyces	Atopobium	Capnocytophaga	Lachnoanaerobaculum	Leptotrichia	Leuconostoc	Oribacterium	Solobacterium	Stomatobaculum	Tannerella
+bsdb:39939954/3/1_Exercise:Higher-Arhatic-level-at-T3_vs_Lower-Arhatic-level-at-T3_UP	NA	Adlercreutzia	Bacteroides	Agathobacter	Akkermansia	Alistipes	Anaerostipes	Barnesiella	Blautia	Butyricicoccus	Collinsella	Coprococcus	Dorea	Faecalibacterium	Fusicatenibacter	Lactococcus	Leuconostoc	Marvinbryantia	Monoglobus	Parasutterella	Romboutsia	Ruminococcus	Streptococcus	Subdoligranulum	Tyzzerella	Thomasclavelia
+bsdb:39939954/3/2_Exercise:Higher-Arhatic-level-at-T3_vs_Lower-Arhatic-level-at-T3_DOWN	NA	Anaerostipes	Bacteroides	Bifidobacterium	Blautia	Collinsella	Coprococcus	Dorea	Enterococcus	Faecalibacterium	Ligilactobacillus	Romboutsia	Streptococcus	Subdoligranulum
 bsdb:39941005/1/1_Response-to-diet:Steamed-sweet-potato-group-(SDF-S)_vs_Model-control-group-(MC)_UP	NA	Anaerotignum	Clostridium	Intestinimonas	Mucispirillum	Oscillibacter
 bsdb:39941005/2/1_Response-to-diet:Oat-Beta-glucan-group-(OB)_vs_Model-control-group-(MC)_UP	NA	Alistipes	Mucispirillum
 bsdb:39941005/3/1_Response-to-diet:Normal-control-group-(NC)_vs_Model-control-group-(MC)_UP	NA	Alistipes	Oscillibacter	Ruminococcus	Mucispirillum	Intestinimonas
@@ -8191,6 +8190,8 @@ bsdb:40400039/1/1_Reproductive-behaviour-measurement:High-reproductive-performan
 bsdb:40400039/1/2_Reproductive-behaviour-measurement:High-reproductive-performance-Jinhua-sows-(HRP)_vs_Low-reproductive-performance-Jinhua-sows-(LRP)_DOWN	NA	Lactobacillus	Prevotella
 bsdb:40406520/1/1_Cervical-carcinoma:Cervical-carcinoma-(CC)_vs_Normal-(Healthy-Controls)_UP	NA	Pseudomonas
 bsdb:40406520/1/2_Cervical-carcinoma:Cervical-carcinoma-(CC)_vs_Normal-(Healthy-Controls)_DOWN	NA	Lactobacillus
+bsdb:40413726/7/1_High-fat-diet:High-fat-diet-(HFD)_vs_Normal-chow-diet-(NC)_DOWN	NA	Ligilactobacillus
+bsdb:40413726/8/1_High-fat-diet:High-fat-diet-combined-with-fecal-microbiota-from-metabolic-associated-fatty-liver-disease-(MAFLD)-patients-(MAF-FMT)_vs_High-fat-diet-(HFD)_DOWN	NA	Ligilactobacillus
 bsdb:40428846/1/1_Endometriosis:Endometriosis-(Women-with-Endometriosis)_vs_Control-(Healthy-women)_UP	NA	Corynebacterium	Facklamia
 bsdb:40428846/1/4_Endometriosis:Endometriosis-(Women-with-Endometriosis)_vs_Control-(Healthy-women)_DOWN	NA	Alloprevotella	Succinivibrio
 bsdb:40441865/1/1_Acute-graft-vs.-host-disease:Gastrointestinal-acute-graft-versus-host-disease-patients-(GI-aGVHD-group)_vs_Non-acute-graft-versus-host-disease-patients-(non-aGVHD-group)_DOWN	NA	Bacteroides	Faecalibacterium	Roseburia
@@ -8391,6 +8392,9 @@ bsdb:40764790/7/1_Alzheimer's-disease:Positive-association-with-Alzheimer’s-pa
 bsdb:40764790/7/2_Alzheimer's-disease:Positive-association-with-Alzheimer’s-patients-with-mild-dementia_vs_Negative-association-with-Alzheimer’s-patients-with-mild-dementia_DOWN	NA	Bacteroides	Butyricicoccus	Holdemania
 bsdb:40764790/8/1_Alzheimer's-disease:Positive-association-with-Alzheimer’s-patients-with-moderate-to-severe-Dementia_vs_Negative-association-with-Alzheimer’s-patients-with-moderate-to-severe-Dementia_UP	NA	Eggerthella	Fusobacterium	Phascolarctobacterium
 bsdb:40764790/8/2_Alzheimer's-disease:Positive-association-with-Alzheimer’s-patients-with-moderate-to-severe-Dementia_vs_Negative-association-with-Alzheimer’s-patients-with-moderate-to-severe-Dementia_DOWN	NA	Acidaminococcus	Dialister
+bsdb:40764790/9/1_Alzheimer's-disease:E2E3-allele_vs_E3E4-+-E4E4-allele_UP	NA	Thomasclavelia
+bsdb:40764790/11/1_Alzheimer's-disease:E4E4-allele_vs_E2E3-+-E3E4-allele_UP	NA	Lachnoclostridium	Tyzzerella	Victivallis
+bsdb:40764790/12/1_Alzheimer's-disease:E4E4-allele_vs_E2E3-+-E3E4-allele_UP	NA	Corynebacterium	Victivallis
 bsdb:40766067/1/1_Irritable-bowel-syndrome:IBS-D_vs_non-IBS-controls_DOWN	NA	Faecalibacterium
 bsdb:40766067/1/2_Irritable-bowel-syndrome:IBS-D_vs_non-IBS-controls_UP	NA	Coprococcus
 bsdb:40766067/1/3_Irritable-bowel-syndrome:IBS-D_vs_non-IBS-controls_DOWN	NA	Lactobacillus	Ruminococcus
@@ -9131,21 +9135,22 @@ bsdb:41723572/1/1_Sepsis:Aged-septic-patients_vs_Young-septic-patients_UP	NA	Kle
 bsdb:41723572/1/2_Sepsis:Aged-septic-patients_vs_Young-septic-patients_DOWN	NA	Ruminococcus	Catenisphaera	Prevotella
 bsdb:41723572/2/1_Sepsis:Aged-+-CLP-(cecal-ligation-and-puncture)_vs_Young-+-CLP-(cecal-ligation-and-puncture)_UP	NA	Enterococcus	Klebsiella
 bsdb:41723572/2/2_Sepsis:Aged-+-CLP-(cecal-ligation-and-puncture)_vs_Young-+-CLP-(cecal-ligation-and-puncture)_DOWN	NA	Muribaculum
-bsdb:41754197/1/1_Diet:Food-insecure-individuals_vs_Food-secure-individuals_UP	NA	Sutterella
-bsdb:41754197/2/1_Diet:Individuals-with-low-food-variety_vs_Individuals-with-high-food-variety_UP	NA	Sutterella
-bsdb:41754197/2/2_Diet:Individuals-with-low-food-variety_vs_Individuals-with-high-food-variety_DOWN	NA	Marvinbryantia	Monoglobus
-bsdb:41754197/3/1_Diet:Individuals-who-consume-disliked-foods_vs_Individuals-who-do-not-consume-disliked-foods_UP	NA	Alloprevotella	Succinivibrio
-bsdb:41754197/4/1_Diet:Individuals-who-have-to-eat-smaller-meals_vs_Individuls-who-do-not-have-to-eat-smaller-meals_UP	NA	Alloprevotella	Lachnospira	Sutterella
-bsdb:41754197/4/2_Diet:Individuals-who-have-to-eat-smaller-meals_vs_Individuls-who-do-not-have-to-eat-smaller-meals_DOWN	NA	Bacteroides	Monoglobus
-bsdb:41754197/5/1_Diet:Individuals-who-worry-about-food_vs_Individuals-who-do-not-worry-about-food_UP	NA	Alloprevotella	Succinivibrio
-bsdb:41754197/5/2_Diet:Individuals-who-worry-about-food_vs_Individuals-who-do-not-worry-about-food_DOWN	NA	Bacteroides	Intestinibacter	Monoglobus	Senegalimassilia
-bsdb:41754197/6/1_Diet:Individuals-who-do-not-eat-preferred-food_vs_Individuals-who-eat-preferred-food_UP	NA	Sutterella
-bsdb:41754197/6/2_Diet:Individuals-who-do-not-eat-preferred-food_vs_Individuals-who-eat-preferred-food_DOWN	NA	Monoglobus
-bsdb:41754197/7/1_Diet:Individuals-who-eat-fewer-meals-a-day_vs_Individuals-who-do-not-eat-fewer-meals-a-day_UP	NA	Alloprevotella	Lachnospira	Marinospirillum	Sutterella
-bsdb:41754197/7/2_Diet:Individuals-who-eat-fewer-meals-a-day_vs_Individuals-who-do-not-eat-fewer-meals-a-day_DOWN	NA	Monoglobus
-bsdb:41754197/10/1_Diet:Individuals-who-had-to-eat-a-limited-variety-of-foods-due-to-a-lack-of-resources_vs_Individuals-who-did-not-have-to-eat-a-limited-variety-of-foods-due-to-a-lack-of-resources_UP	NA	Sutterella
-bsdb:41754197/11/1_Diet:Individuals-who-had-to-eat-some-disliked-foods-because-of-a-lack-of-resources_vs_Individuals-who-did-not-have-to-eat-some-disliked-foods-because-of-a-lack-of-resources_UP	NA	Sutterella
-bsdb:41754197/12/1_Diet:Individuals-who-have-to-eat-smaller-meals_vs_Individuls-who-do-not-have-to-eat-smaller-meals_UP	NA	Sutterella
+bsdb:41754197/1/1_Lifestyle-measurement:Food-insecure-individuals_vs_Food-secure-individuals_UP	NA	Sutterella
+bsdb:41754197/2/1_Lifestyle-measurement:Individuals-who-had-to-eat-a-limited-variety-of-foods-due-to-a-lack-of-resources_vs_Individuals-who-did-not-have-to-eat-a-limited-variety-of-foods-due-to-a-lack-of-resources_UP	NA	Sutterella
+bsdb:41754197/2/2_Lifestyle-measurement:Individuals-who-had-to-eat-a-limited-variety-of-foods-due-to-a-lack-of-resources_vs_Individuals-who-did-not-have-to-eat-a-limited-variety-of-foods-due-to-a-lack-of-resources_DOWN	NA	Marvinbryantia	Monoglobus
+bsdb:41754197/3/1_Lifestyle-measurement:Individuals-who-consume-disliked-foods_vs_Individuals-who-do-not-consume-disliked-foods_UP	NA	Alloprevotella	Succinivibrio
+bsdb:41754197/4/1_Lifestyle-measurement:Individuals-who-have-to-eat-smaller-meals_vs_Individuls-who-do-not-have-to-eat-smaller-meals_UP	NA	Alloprevotella	Lachnospira	Sutterella
+bsdb:41754197/4/2_Lifestyle-measurement:Individuals-who-have-to-eat-smaller-meals_vs_Individuls-who-do-not-have-to-eat-smaller-meals_DOWN	NA	Bacteroides	Monoglobus
+bsdb:41754197/5/1_Lifestyle-measurement:Individuals-who-worry-about-food_vs_Individuals-who-do-not-worry-about-food_UP	NA	Alloprevotella	Succinivibrio
+bsdb:41754197/5/2_Lifestyle-measurement:Individuals-who-worry-about-food_vs_Individuals-who-do-not-worry-about-food_DOWN	NA	Bacteroides	Intestinibacter	Monoglobus	Senegalimassilia
+bsdb:41754197/6/1_Lifestyle-measurement:Individuals-who-do-not-eat-preferred-food_vs_Individuals-who-eat-preferred-food_UP	NA	Sutterella
+bsdb:41754197/6/2_Lifestyle-measurement:Individuals-who-do-not-eat-preferred-food_vs_Individuals-who-eat-preferred-food_DOWN	NA	Monoglobus
+bsdb:41754197/7/1_Lifestyle-measurement:Individuals-who-eat-fewer-meals-a-day_vs_Individuals-who-do-not-eat-fewer-meals-a-day_UP	NA	Alloprevotella	Lachnospira	Marinospirillum	Sutterella
+bsdb:41754197/7/2_Lifestyle-measurement:Individuals-who-eat-fewer-meals-a-day_vs_Individuals-who-do-not-eat-fewer-meals-a-day_DOWN	NA	Monoglobus
+bsdb:41754197/9/1_Lifestyle-measurement:Individuals-who-slept-at-night-in-hunger-due-to-lack-of-resources_vs_Individuals-who-did-not-sleep-at-night-in-hunger-due-to-lack-of-resources_UP	NA	Rickettsia
+bsdb:41754197/10/1_Lifestyle-measurement:Individuals-who-had-to-eat-a-limited-variety-of-foods-due-to-a-lack-of-resources_vs_Individuals-who-did-not-have-to-eat-a-limited-variety-of-foods-due-to-a-lack-of-resources_UP	NA	Sutterella
+bsdb:41754197/11/1_Lifestyle-measurement:Individuals-who-had-to-eat-some-disliked-foods-because-of-a-lack-of-resources_vs_Individuals-who-did-not-have-to-eat-some-disliked-foods-because-of-a-lack-of-resources_UP	NA	Sutterella
+bsdb:41754197/12/1_Lifestyle-measurement:Individuals-who-have-to-eat-smaller-meals_vs_Individuls-who-do-not-have-to-eat-smaller-meals_UP	NA	Sutterella
 bsdb:41773858/1/1_Tuberculosis:Tuberculosis_vs_Control_UP	NA	Alloprevotella	Alloscardovia	Mycobacterium	Porphyromonas	Prevotella	Streptococcus	Megasphaera
 bsdb:41773858/1/2_Tuberculosis:Tuberculosis_vs_Control_DOWN	NA	Abiotrophia	Arachnia	Cardiobacterium	Escherichia	Granulicatella	Klebsiella	Lautropia	Peptidiphaga	Pseudomonas	Solobacterium
 bsdb:41773858/2/1_COVID-19:COVID-19_vs_Control_UP	NA	Alloscardovia
